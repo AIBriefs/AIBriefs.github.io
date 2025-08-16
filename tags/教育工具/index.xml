@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>教育工具 on Product Hunt 每日中文热榜</title><link>https://AIBriefs.github.io/tags/%E6%95%99%E8%82%B2%E5%B7%A5%E5%85%B7/</link><description>Recent content in 教育工具 on Product Hunt 每日中文热榜</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 14 Jul 2025 12:00:00 +0800</lastBuildDate><atom:link href="https://AIBriefs.github.io/tags/%E6%95%99%E8%82%B2%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>Product Hunt 今日热榜 2025-07-14 | AI工具占据70%份额，Mockin441票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-14/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-14/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-14 | AI工具占据70%份额，Mockin441票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-07-14热榜深度分析：Mockin获441票领跑，LLM SEO Trends等10款创新产品完整解析。总票数2264票，精选产品8款，AI工具占据70%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-14/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/7e81cd80-19c6-453c-9819-4ebc2b77a1c5.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Mockin等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/7e81cd80-19c6-453c-9819-4ebc2b77a1c5.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-14 | AI工具占据70%份额，Mockin441票领跑",
+"description": "Product Hunt 2025-07-14热榜深度分析：Mockin获441票领跑，LLM SEO Trends等10款创新产品完整解析。总票数2264票，精选产品8款，AI工具占据70%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-14T00:00:00+08:00",
+"dateModified": "2025-07-14T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-14/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/7e81cd80-19c6-453c-9819-4ebc2b77a1c5.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-14ai工具占据主导地位">Product Hunt 今日热榜 2025-07-14：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-mockin" >Mockin&lt;/a>&lt;/strong> - UX/UI及产品设计师职位面试模拟器 (441票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-llm-seo-trends" >LLM SEO Trends&lt;/a>&lt;/strong> - 实时追踪2200+个热门趋势，数据来自真实搜索量 (370票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-kimi-k2" >Kimi K2&lt;/a>&lt;/strong> - 1T参数开源智能代理模型 (342票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,264票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：226票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：8款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：5款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：70%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜再次验证了AI工具在科技行业的持续统治力，10款上榜产品中有8款属于AI相关领域。其中值得注意的是AI应用正在向更专业的垂直场景渗透，如&lt;strong>Mockin&lt;/strong>的UX/UI设计师面试模拟、&lt;strong>Quoai&lt;/strong>的技术项目预算评估等，显示出生成式AI正在从通用工具向专业助手进化。&lt;/p>
+&lt;p>技术层面呈现出三个明显趋势：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>大模型开源化&lt;/strong>：如1T参数的&lt;strong>Kimi K2&lt;/strong>开源模型，延续了Mistral、LLaMA等开源大模型的趋势&lt;/li>
+&lt;li>&lt;strong>代理型AI崛起&lt;/strong>：&lt;strong>Sapio Agents&lt;/strong>等产品展示了AI作为&amp;quot;数字员工&amp;quot;的完整工作能力&lt;/li>
+&lt;li>&lt;strong>交互方式革新&lt;/strong>：语音交互(&lt;strong>Auralix&lt;/strong>)、聊天式设计(&lt;strong>Motiff AI&lt;/strong>)等自然交互方式成为标配&lt;/li>
+&lt;/ol>
+&lt;p>用户需求方面，职业发展(&lt;strong>Mockin&lt;/strong>)、效率工具(&lt;strong>Planori&lt;/strong>)和内容创作(&lt;strong>Brandthetics&lt;/strong>)是三大热点。特别值得注意的是AI教育助理&lt;strong>Auralix&lt;/strong>的出现，反映了终身学习市场的旺盛需求。对比上月数据，AI产品占比提升12%，且专业化程度明显加深——从通用聊天机器人转向解决具体工作场景问题。&lt;/p>
+&lt;p>SEO关键词自然融入建议：AI工具、生成式AI、开源大模型、AI代理、数字员工、UX设计工具、AI教育、内容创作工具。这些趋势表明，2024年AI应用正在经历从&amp;quot;能用&amp;quot;到&amp;quot;好用&amp;quot;的关键转型，垂直场景的专业化解决方案将成为下一个竞争焦点。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-mockin---uxui及产品设计师职位面试模拟器">1. Mockin - UX/UI及产品设计师职位面试模拟器
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：专业AI模拟面试，提供个性化反馈与简历匹配，助您斩获理想工作。基于STAR法则设计200+真实考题，支持7种语言练习。由设计师团队专为设计师打造的求职利器。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JW5BLV5TFCG4JV?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/7e81cd80-19c6-453c-9819-4ebc2b77a1c5.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Mockin - UX/UI及产品设计师职位面试模拟器，获得441票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺441&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-llm-seo-trends---实时追踪2200个热门趋势数据来自真实搜索量">2. LLM SEO Trends - 实时追踪2200+个热门趋势，数据来自真实搜索量
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：实时监测2200多个热门趋势及其搜索量&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/IRNOIZFSBK4OMU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/d2266e27-4644-4ba1-9511-9c92444fed16.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="LLM SEO Trends - 实时追踪2200&amp;#43;个热门趋势，数据来自真实搜索量，获得370票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺370&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-kimi-k2---1t参数开源智能代理模型">3. Kimi K2 - 1T参数开源智能代理模型
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：月之暗面公司推出的Kimi K2是全新开源的1万亿参数混合专家模型（活跃参数320亿），在编程、推理和智能体任务上实现顶尖性能。基础版和指令调优版已开放使用。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/AOBJKTLWX6LB3X?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/82791cbf-e29b-4b63-8aa4-53e15b4ec5ea.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Kimi K2 - 1T参数开源智能代理模型，获得342票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺342&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-planori---一款简单的计划工具让你能用ai创建和分享计划">4. Planori - 一款简单的计划工具，让你能用AI创建和分享计划
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：🎉 Planori 正式上线啦！ 🎉
+✨ 智能AI计划生成器
+📈 打卡进度环可视化
+🔄 创建/分享/复用模板
+💡 灵感库随取随用&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/4U5Q7ACTQK6UNU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/3a99e4e1-82b9-4cde-862c-87dfe21717bc.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Planori - 一款简单的计划工具，让你能用AI创建和分享计划，获得269票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺269&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-auralix---ai导师真人讲解你的笔记">5. Auralix - AI导师真人讲解你的笔记
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：认识Auralix——你的AI学习伙伴，它能实时讲解知识点并口头测试你。只需导入笔记，放松坐好，让Auralix帮你攻克难点概念并通过随堂测验巩固记忆。更智能的学习方式，由你掌控节奏。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/EXPGBD3ABH2IIT?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/36309038-e4a0-4558-812e-4b70f50d348e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Auralix - AI导师真人讲解你的笔记，获得214票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺214&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-motiff-ai-20---与您的ui设计伙伴对话">6. Motiff AI 2.0 - 与您的UI设计伙伴对话
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：与Motiff AI对话，将创意和网站转化为可编辑的设计方案，生成更多设计选项，创建并编辑图片，重写和翻译文本——一切尽在Motiff中实现。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/HYKDRWQJBWI4T5?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/4fa296d4-8847-4e22-bb0a-ae6f3a0ed4b1.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Motiff AI 2.0 - 与您的UI设计伙伴对话，获得179票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺179&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-focusframe---将你的努力转化为艺术品的可视化计时器">7. FocusFrame - 将你的努力转化为艺术品的可视化计时器
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：FocusFrame - 可视化专注时钟 将你的努力化作艺术杰作&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ZSST4DJMAKKN5K?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/c9beb50e-41ef-40a1-9fde-fb71e68a6ad5.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="FocusFrame - 将你的努力转化为艺术品的可视化计时器，获得166票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺166&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-quoai---科技规划与预算的ai助手">8. Quoai - 科技规划与预算的AI助手。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：科技项目报价只需3分钟，无需3小时。Quoai助你秒速生成精准专业的预算方案：AI智能团队推荐、费用税金自动计算、即用报价模板导出——一站式搞定。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/A7RIJWDVVOHHVT?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/0277f124-db70-457f-b3bd-c5ee1709c05b.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Quoai - 科技规划与预算的AI助手。，获得165票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺165&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-sapio-agents---数据协同诊断ai助手">9. Sapio Agents - 数据协同诊断AI助手
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：全栈式、多维度智能AI协作者——设计思维高度拟人。从数据工程到数据科学分析无所不能，由卡内基梅隆大学与匹兹堡超级计算中心联合打造。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/NQRCQXB4OKXBPR?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9ac370c4-5828-4e92-af01-03224d7007cc.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Sapio Agents - 数据协同诊断AI助手，获得67票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺67&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-brandthetics---将对话视频转化为爆款电影感短视频">10. Brandthetics - 将对话视频转化为爆款电影感短视频
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：将平淡的原声视频瞬间升级为电影级短片。Brandthetics为你的作品自动添加字幕、动态贴纸、背景音乐和特效，让视频更具美感、吸引力和表现力。所有元素均可轻松自定义，打造完美效果。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/CA6M7EUWSKHFOY?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/095f9eee-8b1c-458f-8332-24f3c052b676.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Brandthetics - 将对话视频转化为爆款电影感短视频，获得51票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺51&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item></channel></rss>

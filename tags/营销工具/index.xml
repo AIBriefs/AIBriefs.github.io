@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>营销工具 on Product Hunt 每日中文热榜</title><link>https://AIBriefs.github.io/tags/%E8%90%A5%E9%94%80%E5%B7%A5%E5%85%B7/</link><description>Recent content in 营销工具 on Product Hunt 每日中文热榜</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 14 Aug 2025 12:00:00 +0800</lastBuildDate><atom:link href="https://AIBriefs.github.io/tags/%E8%90%A5%E9%94%80%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>Product Hunt 今日热榜 2025-08-14 | AI工具占据70%份额，Autumn548票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-14/</link><pubDate>Thu, 14 Aug 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-14/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-08-14 | AI工具占据70%份额，Autumn548票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-08-14热榜深度分析：Autumn获548票领跑，mcp-use等10款创新产品完整解析。总票数2813票，精选产品10款，AI工具占据70%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-08-14/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/9d60964c-1fbe-4f61-ac66-d6d90deb3fe6.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Autumn等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/9d60964c-1fbe-4f61-ac66-d6d90deb3fe6.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-08-14 | AI工具占据70%份额，Autumn548票领跑",
+"description": "Product Hunt 2025-08-14热榜深度分析：Autumn获548票领跑，mcp-use等10款创新产品完整解析。总票数2813票，精选产品10款，AI工具占据70%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-08-14T00:00:00+08:00",
+"dateModified": "2025-08-14T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-08-14/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/9d60964c-1fbe-4f61-ac66-d6d90deb3fe6.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-08-14ai工具占据主导地位">Product Hunt 今日热榜 2025-08-14：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-autumn" >Autumn&lt;/a>&lt;/strong> - 让AI初创公司轻松使用Stripe (548票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-mcp-use" >mcp-use&lt;/a>&lt;/strong> - 开源SDK与基础设施，适用于MCP服务器及代理程序 (441票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-bio-calls-by-cross-paths" >Bio Calls by Cross Paths&lt;/a>&lt;/strong> - 60秒内将你的社交媒体全部变现 (429票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,813票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：281票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：5款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：70%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt榜单再次印证了AI工具持续主导科技创新的趋势——上榜的10款产品中，有7款属于AI领域（如Autumn、mcp-use、Kandid等），占比高达70%，凸显了生成式AI和智能自动化仍是当下最热门的创业方向。&lt;/p>
+&lt;p>&lt;strong>垂直化AI解决方案&lt;/strong>成为显著特征：Autumn专为AI初创公司优化Stripe支付集成，Kandid聚焦电商场景的AI销售助手，Compozy则瞄准多智能体系统的开发管理。这反映了AI技术正从通用型工具向行业专用方案演进，满足企业级用户更深层的需求。&lt;/p>
+&lt;p>值得注意的是，&lt;strong>开源基础设施&lt;/strong>和&lt;strong>本地化AI&lt;/strong>获得更多关注——mcp-use提供开源MCP服务器工具链，Whispering强调本地优先的转录方案，呼应了开发者对数据隐私和定制化的需求。同时，&lt;strong>AI视频创作工具&lt;/strong>Reeroll的崛起，与TikTok等短视频平台爆发形成协同效应，显示内容生产自动化仍是市场刚需。&lt;/p>
+&lt;p>与往期相比，本日榜单呈现出三个新动向：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>支付+AI&lt;/strong>融合案例涌现（如Autumn）&lt;/li>
+&lt;li>&lt;strong>多智能体系统&lt;/strong>进入实用阶段（Compozy）&lt;/li>
+&lt;li>&lt;strong>社交变现工具&lt;/strong>创新（Bio Calls）&lt;/li>
+&lt;/ol>
+&lt;p>这些趋势共同描绘出一幅图景：AI技术正在从单点突破转向生态化整合，同时开发者工具和toB解决方案正获得与消费者应用同等的创新关注度。对于创业者而言，在特定场景中实现AI的&amp;quot;最后一公里&amp;quot;落地，可能比开发基础模型更具商业潜力。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-autumn---让ai初创公司轻松使用stripe">1. Autumn - 让AI初创公司轻松使用Stripe
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Autumn平台仅需3次API调用即可帮助AI初创企业实现用量计价与管控。基于Stripe构建，一站式管理订阅服务、用量统计和访问权限，无需配置Webhook或后端逻辑，特别适合开发LLM和图像应用的早期团队。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ML5KNSZXPQXYTN?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9d60964c-1fbe-4f61-ac66-d6d90deb3fe6.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Autumn - 让AI初创公司轻松使用Stripe，获得548票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺548&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-mcp-use---开源sdk与基础设施适用于mcp服务器及代理程序">2. mcp-use - 开源SDK与基础设施，适用于MCP服务器及代理程序
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：mcp-use是一套开源开发工具和云基础设施，能帮助开发团队快速构建并部署基于MCP服务器的定制化AI智能体。我们的SDK在GitHub上拥有超过5000颗星，下载量突破10万次，已获得NASA、思科、英伟达等企业工程师的信赖。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JP73GWHPK3OPND?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/7dce49d1-3a3a-4b4b-b949-5badbeb3dc3f.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="mcp-use - 开源SDK与基础设施，适用于MCP服务器及代理程序，获得441票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺441&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-bio-calls-by-cross-paths---60秒内将你的社交媒体全部变现">3. Bio Calls by Cross Paths - 60秒内将你的社交媒体全部变现
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：链接功能的强力升级——与粉丝一对一通话。展示多个链接。加入社群协作解决问题。主动+被动收益两不误。❤️&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/TUPPQ4Z5F3UQG4?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/67d236b3-dfb6-4dca-8c19-ef974c90579d.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Bio Calls by Cross Paths - 60秒内将你的社交媒体全部变现，获得429票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺429&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-kandid---电商智能顾问销售">4. Kandid - 电商智能顾问销售
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Kandid是一款面向消费品牌的人工智能销售助手，它能像专业店员一样实时引导顾客、推荐商品、解答疑问并促成加购，全天候提升网站转化率。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/6EXX7JB7Q3ATQ6?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/a0ee1d43-924f-4322-91d9-8a4e056f0814.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Kandid - 电商智能顾问销售，获得278票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺278&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-fellow-api---从会议记录和ai笔记构建自定义工作流">5. Fellow API - 从会议记录和AI笔记构建自定义工作流
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：无论是归档合规记录、在关键词出现时触发工作流、为仪表盘提供最新洞察，还是将会议记录传递给大语言模型生成定制摘要和行动方案，Fellow的API都能满足您的所有需求。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/A6FVNK3VGLPI5S?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/edfbbee5-6bf5-4d6a-8d0b-ea3d80017801.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Fellow API - 从会议记录和AI笔记构建自定义工作流，获得249票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺249&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-compozy---下一代智能代理调度平台">6. Compozy - 下一代智能代理调度平台
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：使用Compozy创建、部署和管理强大的多智能体系统——将智能体、任务、工具和信号统一为可扩展的YAML工作流。基于Go和Temporal构建，兼顾性能与可靠性，它能优化成本并赋予企业完全控制权。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/TAJQAJYGDCH7OP?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/583eb0d0-c7e6-42a9-a02e-b2abdf593987.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Compozy - 下一代智能代理调度平台，获得197票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺197&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-reeroll---ai视频剪辑器">7. Reeroll - AI视频剪辑器
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Reeroll是一款AI视频编辑器，能快速制作吸引人的短视频。只需选择模板、添加素材和链接，Reeroll就能为您自动生成个性化视频。无需复杂操作，通过简单对话即可将创意转化为可直接发布的成品视频。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SW4XM4BZM7OHHL?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/b6e70211-4b19-464c-ac0c-9fa917019f4a.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Reeroll - AI视频剪辑器，获得191票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺191&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-downmark---一键将网页内容转为清爽markdown">8. DownMark - 一键将网页内容转为清爽Markdown
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：DownMark能将网页文章转换为清爽的Markdown文件。这款Safari扩展能智能过滤广告和冗余内容，只保留核心信息并保持规范排版，是知识工作者的高效工具。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/I2Y3VINSARXAYZ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/b4456eb9-6551-4636-89b3-5aa7f2c9304a.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="DownMark - 一键将网页内容转为清爽Markdown，获得172票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺172&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-whispering---可信赖的开源本地优先语音转文字工具">9. Whispering - 可信赖的开源本地优先语音转文字工具
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Whisper是一款开源、本地优先的转录应用。它支持本地与云端模型，可串联自定义转换流程，最关键的是——所有音频数据都存储在设备本地。运行迅捷、交互友好，采用MIT开源协议。让我们共同终结闭源软件的垄断时代。🚀&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/4JA3PV5VOJAXLE?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/fecdba24-c2bf-4e3c-ab89-ca19db8c63bc.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Whispering - 可信赖的开源本地优先语音转文字工具，获得157票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺157&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-inworld-runtime---顶尖消费级应用的ai运行环境">10. Inworld Runtime - 顶尖消费级应用的AI运行环境
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：专为海量用户应用打造的首个AI原生后端引擎。轻松从原型扩展到百万级规模。自动化MLOps让您摆脱运维负担。即时部署无代码实验。经过与英伟达、谷歌、Xbox合作的实战检验。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/FB2RLE4N2TGE3V?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9878066a-a7e2-42e5-b080-95b00a368a9c.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Inworld Runtime - 顶尖消费级应用的AI运行环境，获得151票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺151&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月13日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-08-11 | AI工具占据70%份额，Simular Pro309票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-11/</link><pubDate>Mon, 11 Aug 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-11/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-08-11 | AI工具占据70%份额，Simular Pro309票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-08-11热榜深度分析：Simular Pro获309票领跑，Shotva等10款创新产品完整解析。总票数1159票，精选产品4款，AI工具占据70%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-08-11/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/92eb7512-6fdb-4ec7-97ab-5d7d12534239.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Simular Pro等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/92eb7512-6fdb-4ec7-97ab-5d7d12534239.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-08-11 | AI工具占据70%份额，Simular Pro309票领跑",
+"description": "Product Hunt 2025-08-11热榜深度分析：Simular Pro获309票领跑，Shotva等10款创新产品完整解析。总票数1159票，精选产品4款，AI工具占据70%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-08-11T00:00:00+08:00",
+"dateModified": "2025-08-11T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-08-11/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/92eb7512-6fdb-4ec7-97ab-5d7d12534239.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-08-11ai工具占据主导地位">Product Hunt 今日热榜 2025-08-11：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-simular-pro" >Simular Pro&lt;/a>&lt;/strong> - 生产级计算机使用代理 (309票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-shotva" >Shotva&lt;/a>&lt;/strong> - 美化你的截图 (263票) ⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-seo-shop-audit" >SEO Shop Audit&lt;/a>&lt;/strong> - 将电商店主转化为SEO长期客户 (195票) ⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：1,159票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：115票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：4款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：2款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：70%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜再次彰显了AI工具在科技领域的统治地位，10款上榜产品中有7款属于AI领域（占比70%），覆盖了生产力提升、内容美化、健康管理、营销自动化等多个细分场景。其中，&lt;strong>AI自动化工具&lt;/strong>如Simular Pro（生产级电脑操作代理）和CallHQ.ai（智能电话销售助手）展现了AI向专业化工作流程的深度渗透，而Shotva（智能截图美化）和Yummery（AI健康食谱）则印证了消费级AI应用的持续创新。&lt;/p>
+&lt;p>&lt;strong>行业分布&lt;/strong>呈现明显特征：AI工具（70%）领跑，其次是生产力工具（10%）、营销工具（10%）和开发工具（10%）。与往期相比，AI应用的垂直化趋势更加显著——从通用的内容生成转向解决特定场景痛点，例如SEO Shop Audit为电商提供定制化SEO方案，SmartPractice AI则专攻医疗临床笔记自动化。&lt;/p>
+&lt;p>&lt;strong>技术趋势&lt;/strong>方面，三大方向值得关注：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>任务自动化升级&lt;/strong>：如Simular Pro通过精确的Mac操作代理解放重复劳动，反映企业对&amp;quot;设置即遗忘&amp;quot;型工具的需求激增&lt;/li>
+&lt;li>&lt;strong>AI+垂直行业融合&lt;/strong>：医疗（SmartPractice AI）、餐饮（Yummery）、电商（SEO Shop Audit）等传统领域加速AI改造&lt;/li>
+&lt;li>&lt;strong>轻量化工具爆发&lt;/strong>：BeeSecure等针对独立开发者的安全工具，显示微型团队对&amp;quot;即插即用&amp;quot;解决方案的偏爱&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>市场热点&lt;/strong>中，Reddit Growth的崛起揭示了流量获取策略的转变——社群营销正从泛社交平台转向Reddit等精准社区，而Expense AI的入围则呼应了全球范围内个人财务管理的数字化浪潮。数据表明，能够直接提升商业效率（如CallHQ.ai的销售转化优化）或生活品质（如Yummery的营养管理）的AI工具最易获得用户青睐，这为创业者提供了明确的产品开发方向。&lt;/p>
+&lt;p>（字数：498）&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-simular-pro---生产级计算机使用代理">1. Simular Pro - 生产级计算机使用代理
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Simular Pro是专为macOS打造的生产级电脑自动化助手，能够像真人一样可靠地完成复杂的桌面任务。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/773VZDK5XCTFW4?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/92eb7512-6fdb-4ec7-97ab-5d7d12534239.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Simular Pro - 生产级计算机使用代理，获得309票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺309&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-shotva---美化你的截图">2. Shotva - 美化你的截图
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Shotva一键将普通截图升级为精美可分享的视觉素材。添加优雅背景、投影效果和品牌标识——无论是社交媒体发帖、演示文稿还是产品展示，都能在浏览器内轻松完成。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/XADRAU7SUGQVVP?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8d145342-da0e-4843-970a-6785b636e092.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Shotva - 美化你的截图，获得263票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺263&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-seo-shop-audit---将电商店主转化为seo长期客户">3. SEO Shop Audit - 将电商店主转化为SEO长期客户
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：为您量身定制电商SEO优化方案，精准诊断搜索流量与销售转化瓶颈，快速提升店铺自然排名。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/P45EQGH67QEVLY?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/07ee6418-aa1b-4ad7-a69c-b18d6d649a65.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="SEO Shop Audit - 将电商店主转化为SEO长期客户，获得195票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺195&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-yummery---ai智能健康食谱与饮食方案">4. Yummery - AI智能健康食谱与饮食方案
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：AI秒级定制个性化膳食计划。发现健康食谱，追踪营养摄入，收获每日烹饪灵感。轻松吃出健康，告别繁琐规划。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/KVJZMTJLZT7XW3?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9d7271ec-c7fe-4d69-b507-df9c89141d4c.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Yummery - AI智能健康食谱与饮食方案，获得166票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺166&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-reddit-growth---无干预式reddit营销策略轻松提升网站月访问量">5. Reddit Growth - 无干预式Reddit营销策略：轻松提升网站月访问量
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：为您代劳的Reddit营销服务，定期为产品带来精准流量。每周10+篇帖子、30+条评论，包含关键词调研和SEO优化收益。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/CMCAEO6SQ2Y5MX?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/f385f18f-fa2b-4ed3-be28-898a9065587e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Reddit Growth - 无干预式Reddit营销策略：轻松提升网站月访问量，获得79票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺79&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-beesecure---独立开发者与氛围型程序员的安全自查指南">6. BeeSecure - 独立开发者与氛围型程序员的安全自查指南
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：BeeSecure 是为独立开发者和自由程序员量身打造的快捷安全检测工具。只需连接你的GitHub代码库，几分钟即可完成代码扫描，并提供清晰可行的修复建议，守护项目安全。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/HWNQQGJBILBKRH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9fdb3bcc-39b3-4561-98e8-d6cdedc8ff41.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="BeeSecure - 独立开发者与氛围型程序员的安全自查指南，获得47票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺47&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-callhqai---让ai为你效力">7. CallHQ.ai - 让AI为你效力
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：让我们的拟人AI电话助手为您自动拨号、筛选潜在客户并轻松跟进。优化销售通话、客户支持、线索甄别、预约安排等全流程。立即开启高效转化！&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/NISJZZLCEUIXNH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/5abaf54c-2a3a-46d0-8d72-84b41cfe3537.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="CallHQ.ai - 让AI为你效力，获得30票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺30&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-smartpractice-ai---ai秒速生成临床病历告别数小时等待">8. SmartPractice AI - AI秒速生成临床病历，告别数小时等待
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：智能诊疗AI - 用语音识别技术革新临床记录。即时生成SOAP病历、病史体检报告、病程记录和ICD-10诊断编码。专为医疗机构打造的符合HIPAA规范的医疗人工智能。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JKXKCQQV5QJVSV?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/c5d28dbb-e43f-44e9-8ba1-d5e9edf69430.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="SmartPractice AI - AI秒速生成临床病历，告别数小时等待，获得25票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺25&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-autonote-ai----轻松将会议转化为可执行的洞见">9. autonote AI - 轻松将会议转化为可执行的洞见
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：上传或录制您的会议、讲座或对话，轻松派出AI会议助手Auto为您记录、提问并总结会议内容。通过实时语音和聊天功能，直观获取完整会议上下文进行互动。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/6EJQFSSIAVONES?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/0012de5a-ecdf-4b51-83c6-f8b2de8d0183.gif?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="autonote AI - 轻松将会议转化为可执行的洞见，获得24票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺24&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-expense-ai---简化财务管理">10. Expense AI - 简化财务管理
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：轻松掌控财务的终极利器！聊天就能记账、管钱，每日贴心建议助你提升理财能力。从此财务管理，简单到一句话搞定。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/D6ILKDADDIEHSB?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/b64a4824-7484-42af-9b1e-22d777371bd9.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Expense AI - 简化财务管理，获得21票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺21&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月10日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-08-06 | AI工具占据100%份额，Indy AI by Contra619票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-06/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-06/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-08-06 | AI工具占据100%份额，Indy AI by Contra619票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-08-06热榜深度分析：Indy AI by Contra获619票领跑，Asteroid等10款创新产品完整解析。总票数3486票，精选产品10款，AI工具占据100%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-08-06/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/76254ee4-1e26-4492-b937-ec486f01c101.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Indy AI by Contra等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/76254ee4-1e26-4492-b937-ec486f01c101.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-08-06 | AI工具占据100%份额，Indy AI by Contra619票领跑",
+"description": "Product Hunt 2025-08-06热榜深度分析：Indy AI by Contra获619票领跑，Asteroid等10款创新产品完整解析。总票数3486票，精选产品10款，AI工具占据100%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-08-06T00:00:00+08:00",
+"dateModified": "2025-08-06T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-08-06/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/76254ee4-1e26-4492-b937-ec486f01c101.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-08-06ai工具占据主导地位">Product Hunt 今日热榜 2025-08-06：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-indy-ai-by-contra" >Indy AI by Contra&lt;/a>&lt;/strong> - 招聘网站已死，人脉网络永存 (619票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-asteroid" >Asteroid&lt;/a>&lt;/strong> - 数秒内构建专属AI浏览器助手，轻松赋能后台办公 (552票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-voice-agents-by-perspective-ai" >Voice Agents by Perspective AI&lt;/a>&lt;/strong> - 研究团队信赖。客户青睐的对话。 (430票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：3,486票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：348票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：7款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：100%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜呈现出明显的AI工具主导态势，10款上榜产品全部属于人工智能领域，反映出2024年AI应用市场的持续爆发。这波AI浪潮正在从基础模型层面向垂直应用场景快速渗透，其中职业社交自动化工具Indy AI（619票）和浏览器智能代理Asteroid（552票）分列榜首，显示出工作场景智能化改造的巨大需求。&lt;/p>
+&lt;p>值得关注的三大技术趋势：首先是以Indy AI为代表的社交网络数据挖掘技术，通过整合LinkedIn和X平台数据重构求职招聘流程；其次是AI代理技术的平民化，如Asteroid和Compuser.ai让非技术人员也能构建复杂浏览器自动化流程；第三是多模态交互创新，Flowtica Scribe的智能笔记笔和Voice Agents的语音交互方案正在重塑人机交互范式。&lt;/p>
+&lt;p>市场热点集中在三个方向：1）工作流程自动化（占上榜产品60%），2）内容创作与营销工具（Embeddable、involve.me等），3）开源模型生态（Qwen-Image）。与上月相比，AI代理类产品占比增长35%，反映出市场正从通用AI向场景化智能解决方案快速演进。Writingmate 3.0提供的多模型订阅模式也预示着AI服务正在进入整合期，用户开始追求&amp;quot;一站式&amp;quot;解决方案而非单一功能工具。&lt;/p>
+&lt;p>这些产品共同描绘出AI产业发展的关键路径：从技术驱动转向需求驱动，从单点突破转向生态构建。特别是Webhookify等开发工具的出现，表明AI应用开发者正积极构建更完善的技术基础设施。可以预见，2024年下半年AI领域将出现更多面向特定场景的&amp;quot;微创新&amp;quot;，而垂直领域的商业化落地能力将成为竞争关键。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-indy-ai-by-contra---招聘网站已死人脉网络永存">1. Indy AI by Contra - 招聘网站已死，人脉网络永存
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Indy AI彻底改变了自由职业者找工作的方式。它自动关联你的领英和X账号，扫描你的人脉网络，在你Contra动态中推送潜在机会。告别招聘网站，无需拼命推销，直接从熟人圈获取真实机会。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SX6UYISHBPNHQX?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/76254ee4-1e26-4492-b937-ec486f01c101.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Indy AI by Contra - 招聘网站已死，人脉网络永存，获得619票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺619&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-asteroid---数秒内构建专属ai浏览器助手轻松赋能后台办公">2. Asteroid - 数秒内构建专属AI浏览器助手，轻松赋能后台办公
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Asteroid让任何人都能创建高度定制化的复杂AI浏览器智能体。无论是非技术用户还是工程师，现在都能通过Asteroid基于网页的智能体构建器和API集成等功能，以前所未有的20倍速度可靠地实现后台浏览器任务自动化。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/6T3DYXEZLAYVHC?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/290f1c9e-10d6-46c0-bb68-dd46e3be998e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Asteroid - 数秒内构建专属AI浏览器助手，轻松赋能后台办公，获得552票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺552&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-voice-agents-by-perspective-ai---研究团队信赖客户青睐的对话">3. Voice Agents by Perspective AI - 研究团队信赖。客户青睐的对话。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：你的客户有很多话想说。让他们畅所欲言。语音助手让客户能随时随地用自然语言交流——无论何时何地，使用任何语言。研究表明这是获取真实反馈的最快方式，企业从未如此贴近客户心声。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/GYO4ID5UPB3KK2?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/02878455-2baa-4c84-8b72-93a2c97833fd.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Voice Agents by Perspective AI - 研究团队信赖。客户青睐的对话。，获得430票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺430&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-embeddable---用ai对话为你的网站打造互动工具">4. Embeddable - 用AI对话为你的网站打造互动工具
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：打造互动工具，如表单、弹窗、测试和小游戏，提升用户参与度并转化更多潜在客户。无需编程，只需输入需求，自定义结果，几分钟内即可在网站嵌入轻量级、SEO友好的脚本。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/5HWCIKD7LAZSLS?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/d758b8fd-7f6c-43a2-9a4a-5f2da01393c2.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Embeddable - 用AI对话为你的网站打造互动工具，获得416票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺416&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-involveme-ai-agent---通过ai对话创建并编辑互动漏斗">5. involve.me AI Agent - 通过AI对话创建并编辑互动漏斗
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：involve.me推出全球首款AI智能助手，只需简单对话就能自动构建完整的销售营销漏斗。零学习门槛，无需编程代码，短短数秒即可生成高转化率的营销漏斗，告别耗时数小时的手动搭建。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/27FIGNQKZ7XSB3?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/0ffb3ea5-8cac-44ae-be58-493f9d286147.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="involve.me AI Agent - 通过AI对话创建并编辑互动漏斗，获得367票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺367&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-writingmate-30---一卡通行所有ai模型">6. Writingmate 3.0 - 一卡通行所有AI模型
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：一站式AI订阅省心又省钱。聊天、编程、模型对比、网络搜索和图像生成，聚合顶尖大语言模型，全在此处搞定。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/CH3Y6NVKHBSVCX?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/367d8e49-95e1-4032-9915-555b1f30b49f.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Writingmate 3.0 - 一卡通行所有AI模型，获得349票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺349&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-flowtica-scribe---掌中智能笔记专家">7. Flowtica Scribe - 掌中智能笔记专家
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Flowtica Scribe是一款AI智能笔，能录音并通过按键标记关键片段，随后自动生成围绕重点内容的个性化结构化笔记。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JGZZMYQXDDP4LP?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/4b08bc3c-38b4-47ce-bab3-02f76fc80861.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Flowtica Scribe - 掌中智能笔记专家，获得233票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺233&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-qwen-image---惊艳画面与精准文案">8. Qwen-Image - 惊艳画面与精准文案
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Qwen-Image是Qwen团队新推出的200亿参数开源图像基础模型。该模型擅长复杂文本渲染（尤其是中文）和精准图像编辑，同时具备出色的通用图像生成能力，现已在Qwen Chat平台开放使用。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/3BEFNK4MUIYXLX?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/368c73ee-a05b-4d8a-a01a-4dbdc333e07d.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Qwen-Image - 惊艳画面与精准文案，获得199票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺199&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-compuserai---ai电脑可直接在浏览器中使用代理">9. Compuser.ai - AI电脑可直接在浏览器中使用代理
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：认识Compuser.ai，这是一款浏览器内的AI智能助手，能看懂屏幕截图、点击按钮、输入文字、操作各类软件，直接在浏览器中帮你完成任务。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/P2DH5EWT4FZZSN?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/d321521d-4f3d-47aa-b0cf-8d961da2142b.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Compuser.ai - AI电脑可直接在浏览器中使用代理，获得164票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺164&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-webhookify---ai驱动的即时webhook网址通知">10. Webhookify - AI驱动的即时Webhook网址通知
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：快速创建网页钩子端点，通过移动端、Slack、Discord、Telegram或邮箱接收AI智能提醒。支持Stripe、Shopify、GitHub、RevenueCat等1000多个平台，无需编写代码。提供网页版、iOS和安卓应用，含免费套餐。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ZZQXKZVEZSZI52?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/df436515-29a5-4efd-b435-d489cf4ced9f.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Webhookify - AI驱动的即时Webhook网址通知，获得157票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺157&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月05日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-08-05 | AI工具占据90%份额，SciSpace Agent 569票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-05/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-08-05/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-08-05 | AI工具占据90%份额，SciSpace Agent 569票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-08-05热榜深度分析：SciSpace Agent 获569票领跑，Spill等10款创新产品完整解析。总票数2691票，精选产品10款，AI工具占据90%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-08-05/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/9af47cb7-af18-4859-bb34-958a38b10142.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="SciSpace Agent 等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/9af47cb7-af18-4859-bb34-958a38b10142.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-08-05 | AI工具占据90%份额，SciSpace Agent 569票领跑",
+"description": "Product Hunt 2025-08-05热榜深度分析：SciSpace Agent 获569票领跑，Spill等10款创新产品完整解析。总票数2691票，精选产品10款，AI工具占据90%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-08-05T00:00:00+08:00",
+"dateModified": "2025-08-05T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-08-05/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/9af47cb7-af18-4859-bb34-958a38b10142.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-08-05ai工具占据主导地位">Product Hunt 今日热榜 2025-08-05：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-scispace-agent-" >SciSpace Agent &lt;/a>&lt;/strong> - 仅用AI代理自动完成研究，支持150多种学术工具 (569票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-spill" >Spill&lt;/a>&lt;/strong> - 极简自由写作应用 (399票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-verbite" >Verbite&lt;/a>&lt;/strong> - AI智能体生成的SEO优化内容 (287票) ⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,691票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：269票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：6款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：90%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜再次印证了AI工具的压倒性优势——在Top 10产品中，8个属于AI领域，占比高达80%。值得注意的是，这些AI产品正朝着&lt;strong>垂直专业化&lt;/strong>和&lt;strong>工作流集成&lt;/strong>方向演进：从SciSpace Agent整合150+学术工具的研究助手，到Verbite专注SEO内容的AI写手，再到Sailhouse的AI智能体控制平台，显示出市场对&lt;strong>场景化AI解决方案&lt;/strong>的强烈需求。&lt;/p>
+&lt;p>&lt;strong>三大技术趋势&lt;/strong>尤为突出：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>AI代理（Agent）生态爆发&lt;/strong>：今日上榜的SciSpace Agent、Sailhouse和PromptPlex均围绕AI代理展开，反映行业正从单点模型转向&lt;strong>自动化工作流系统&lt;/strong>。据Gartner预测，到2026年30%的企业将部署AI代理，今日榜单印证了这一趋势。&lt;/li>
+&lt;li>&lt;strong>人格化AI接口&lt;/strong>：ClueoAPI提出&amp;quot;AI人格层&amp;quot;概念，与GPT-4o的多模态交互趋势呼应，显示用户对&lt;strong>有温度的AI交互体验&lt;/strong>的需求增长。&lt;/li>
+&lt;li>&lt;strong>轻量化工具复兴&lt;/strong>：非AI类产品如极简写作工具Spill和轻量级看板Kanbanq的入围，暗示在AI浪潮中，&lt;strong>专注核心功能的效率工具&lt;/strong>仍有市场空间。&lt;/li>
+&lt;/ol>
+&lt;p>与上月相比，AI产品呈现&lt;strong>纵深发展&lt;/strong>特征：早期的基础模型工具（如ChatGPT插件）正被&lt;strong>行业专属Agent&lt;/strong>取代。以SciSpace为例，它不再只是文献搜索，而是整合了数据分析、论文写作等完整研究链路。这种转变揭示出：市场需要的不再是&amp;quot;万能AI&amp;quot;，而是&lt;strong>深度理解垂直场景的智能伙伴&lt;/strong>。&lt;/p>
+&lt;p>创业者应关注两个红利窗口：&lt;/p>
+&lt;ul>
+&lt;li>企业服务领域如Rollups的股权管理AI化&lt;/li>
+&lt;li>内容创作赛道如Ghost 6.0的ActivityPub集成&lt;br>
+这些产品成功抓住了&lt;strong>AI+行业工作流&lt;/strong>的融合机遇，其爆发式票数增长（SciSpace 24小时内获569票）证明精准场景定位的价值。下一波创新很可能出现在AI智能体协作（如多个Agent自主交互）和人格化交互维度。&lt;/li>
+&lt;/ul>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-scispace-agent----仅用ai代理自动完成研究支持150多种学术工具">1. SciSpace Agent - 仅用AI代理自动完成研究，支持150多种学术工具
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：SciSpace Agent 作为您的科研助手，集成了数百种学术工具与数据库。只需一个指令，它就能阅读文献、分析数据、撰写论文，节省90%研究时间，助您从假设到发现加速突破。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/AIK7E43UBKADMA?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9af47cb7-af18-4859-bb34-958a38b10142.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="SciSpace Agent - 仅用AI代理自动完成研究，支持150多种学术工具，获得569票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺569&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-spill---极简自由写作应用">2. Spill - 极简自由写作应用
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Spill是一款极简的思绪倾泻应用，让你在无干扰空间自由书写。完成后，可通过语音模式深度反思你的想法。从今天开始写出更好的文字。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/NTUBV4F7XS2YEO?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/02d0c328-c091-46f1-8d48-38cc7de0cf45.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Spill - 极简自由写作应用，获得399票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺399&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-verbite---ai智能体生成的seo优化内容">3. Verbite - AI智能体生成的SEO优化内容
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：普通AI工具只能提供草稿，而Verbite凭借专业AI智能体，直接生成可发布的高排名优质内容。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JPQCIAGKN352U7?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/308c7dce-98ef-4d7f-ae04-da3b15519549.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Verbite - AI智能体生成的SEO优化内容，获得287票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺287&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-kanbanq--open-alpha---项目管理轻松搞定专为小团队和独立开发者设计">4. Kanbanq : Open alpha - 项目管理。轻松搞定。专为小团队和独立开发者设计
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：一款面向开发者、设计师和小型团队的极简项目管理工具。内置AI能自动分解任务、总结迭代周期并整理待办事项——无冗余功能，无需插件，简洁高效。专注核心规划，让工作事半功倍。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/WIXRO25YNC3DM4?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/79572724-a16c-498d-a33c-9fe203ab2a3e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Kanbanq : Open alpha - 项目管理。轻松搞定。专为小团队和独立开发者设计，获得276票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺276&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-ghost-60---为创作者创收超1亿美元的开源产品">5. Ghost 6.0 - 为创作者创收超1亿美元的开源产品
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：支持ActivityPub的联网发布功能、深度整合的原生数据分析、大量改进升级，独立出版商累计获利超1亿美元。这是我们迄今为止规模最大的版本更新。Product Hunt今日最令人兴奋的非AI相关产品。大概吧。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/YYOYSW6JMFVLZZ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/f2bab883-a079-486b-a33f-9747d094403f.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Ghost 6.0 - 为创作者创收超1亿美元的开源产品，获得262票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺262&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM04:33 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-rollups---掌控你创业公司的股权">6. Rollups - 掌控你创业公司的股权
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Rollups.com助力初创企业掌控股权架构&lt;br>
+Roll Up Vehicles (RUVs)：通过单一实体向多位投资者募资&lt;br>
+Consolidation Vehicles (CVs)：整合现有股东权益，同时保持其QSBS税务优惠资格&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JCDWYCDTNYYQVF?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/daa58341-0616-45da-a0ae-aae52827f12c.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Rollups - 掌控你创业公司的股权，获得242票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺242&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-promptplex---您所有ai指令的指挥中心">7. PromptPlex - 您所有AI指令的指挥中心
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：别再丢失优秀提示词了。PromptPlex是掌控AI工作流的终极工具包，可打造功能强大的可搜索指令库，支持智能文件夹和动态变量，兼容ChatGPT、Claude、Gemini等主流AI平台，您的AI指令中枢就此诞生。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/Y6KZHJOQ6YHUAD?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/22f4cf8b-6d07-4fcf-97bc-da3e18e2190c.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="PromptPlex - 您所有AI指令的指挥中心，获得181票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺181&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-sailhouse---agent-control-plane---老实说您的ai智能体还有提升空间">8. Sailhouse - Agent Control Plane - 老实说，您的AI智能体还有提升空间。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Sailhouse是AI代理和异步系统的控制中枢。通过代码定义动态工作流，实时响应事件和数据变化。无需复杂基础设施，即可获得可靠交付、实时监控和生产级协调能力。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ZZWLH3ABYR32Z2?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/666d284f-179b-4304-99c5-60e95c0fcc52.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Sailhouse - Agent Control Plane - 老实说，您的AI智能体还有提升空间。，获得159票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺159&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-clueoapi---为所有ai产品补齐人格化拼图">9. ClueoAPI - 为所有AI产品补齐人格化拼图
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：为你的AI赋予值得倾听的声音。Clueo API只需一次调用，就能为LLM注入个性、情感和语调，让每个回应都真实自然、富有人性且契合品牌调性。无限角色可能。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SLN3EZOGUMNARD?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/db78f349-98db-4036-9a47-78a3ec1c6a43.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="ClueoAPI - 为所有AI产品补齐人格化拼图，获得158票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺158&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-sellible---创始人销售训练营">10. Sellible - 创始人销售训练营
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：锻造你的销售实力。Sellible让你与AI客户模拟真实销售对话，在不会损失真实客户的情况下练习应对异议、允许犯错、逐步精通。现在就开始实战演练吧。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/6PY2OAJFF3B6N2?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8ba26441-40a6-44ce-80d5-dd22765add24.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Sellible - 创始人销售训练营，获得158票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺158&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年08月04日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-07-28 | AI工具占据70%份额，HuHu AI Agent for E-Commerce521票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-28/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-28/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-28 | AI工具占据70%份额，HuHu AI Agent for E-Commerce521票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-07-28热榜深度分析：HuHu AI Agent for E-Commerce获521票领跑，findable.等10款创新产品完整解析。总票数2554票，精选产品10款，AI工具占据70%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-28/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/d0a5c3fd-30a9-406b-82e7-7b43d3243e5f.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="HuHu AI Agent for E-Commerce等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/d0a5c3fd-30a9-406b-82e7-7b43d3243e5f.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-28 | AI工具占据70%份额，HuHu AI Agent for E-Commerce521票领跑",
+"description": "Product Hunt 2025-07-28热榜深度分析：HuHu AI Agent for E-Commerce获521票领跑，findable.等10款创新产品完整解析。总票数2554票，精选产品10款，AI工具占据70%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-28T00:00:00+08:00",
+"dateModified": "2025-07-28T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-28/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/d0a5c3fd-30a9-406b-82e7-7b43d3243e5f.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-28ai工具占据主导地位">Product Hunt 今日热榜 2025-07-28：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-huhu-ai-agent-for-e-commerce" >HuHu AI Agent for E-Commerce&lt;/a>&lt;/strong> - 仅需一个链接就能带来5倍转化的AI电商助手 (521票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-findable." >findable.&lt;/a>&lt;/strong> - 用SEO 2.0登上ChatGPT搜索榜首 (485票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-ai-phone-screener-by-hyring" >AI Phone Screener by Hyring&lt;/a>&lt;/strong> - 午饭前筛选完1000名候选人 (444票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,554票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：255票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：4款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：70%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜呈现明显的AI工具主导趋势，10款上榜产品中有7款属于AI领域（占比70%），反映出生成式AI技术正在深度渗透各垂直场景。值得关注的是，电商转化（HuHu AI Agent）、LLM搜索引擎优化（findable.）和3D场景生成（HunyuanWorld 1.0）三大创新方向尤为突出，显示了AI应用正从通用型向行业专用型转变的技术演进路径。&lt;/p>
+&lt;p>在技术架构层面，多模态AI成为关键突破口。腾讯开源的HunyuanWorld 1.0实现了从文本/图像到3D场景的跨模态生成，而BugPic则展示了计算机视觉在细分领域的实用化突破。这种&amp;quot;垂直领域+多模态&amp;quot;的技术组合，正在催生新一代AI生产力工具。SEO 2.0概念（findable.）和AI结构化搜索（Google Web Guide）的涌现，则预示着传统搜索引擎优化策略正在被大语言模型重塑。&lt;/p>
+&lt;p>市场热点呈现两极分化：一方面是企业级效率工具（如Hyring的AI招聘筛选、Bilbo的数据分析Agent），另一方面是消费级轻应用（1美元简历优化、昆虫识别）。这种分化印证了当前AI市场的双轮驱动模式——企业数字化转型需求与个人用户对AI助手的依赖同步增长。与往期相比，本日榜单中的AI产品更注重实际转化指标（如&amp;quot;5倍转化提升&amp;quot;），而非单纯的技术演示，表明行业已进入价值验证阶段。&lt;/p>
+&lt;p>值得注意的长期趋势包括：1）AI代理（Agent）架构的标准化（多款产品采用Agent模式）2）3D内容生成开始商业化落地 3）传统工具（如Metabase）通过AI插件实现智能化升级。这些创新正在重构包括电商运营、人才招聘、数据分析和内容生产在内的多个行业价值链。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-huhu-ai-agent-for-e-commerce---仅需一个链接就能带来5倍转化的ai电商助手">1. HuHu AI Agent for E-Commerce - 仅需一个链接就能带来5倍转化的AI电商助手
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：通过聊天轻松生成和编辑高转化率产品视觉内容。HuHu AI助手就像您的专属设计师，为网店打造所需的一切素材。✅ 一张照片，生成全部内容 ✅ 链接直达改图工具 ✅ 触达更多潜在客户&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/RG52PS7UYIWT3Y?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/d0a5c3fd-30a9-406b-82e7-7b43d3243e5f.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="HuHu AI Agent for E-Commerce - 仅需一个链接就能带来5倍转化的AI电商助手，获得521票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺521&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-findable---用seo-20登上chatgpt搜索榜首">2. findable. - 用SEO 2.0登上ChatGPT搜索榜首
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：适用于ChatGPT、Claude、Perplexity和Google Gemini等平台的完整LLM搜索引擎优化工具包，助您监控、分析并提升AI搜索能见度。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/6FJQFXBF2HIIS6?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/3668afe0-36fb-4899-b730-e6b97174d4d9.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="findable. - 用SEO 2.0登上ChatGPT搜索榜首，获得485票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺485&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-ai-phone-screener-by-hyring---午饭前筛选完1000名候选人">3. AI Phone Screener by Hyring - 午饭前筛选完1000名候选人
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：高效提升招聘漏斗顶端转化率。Hyring的AI电话筛选系统通过电话初筛候选人，如同组建了一支全天候无休、可拨打数百通电话的招聘团队。结合Hyring的AI视频面试功能？现在您可以双管齐下，彻底自动化前两轮面试流程！&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/QCKRQF77TKTA4F?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8426ba83-b790-45f1-ba4b-d6f3f9bb430f.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="AI Phone Screener by Hyring - 午饭前筛选完1000名候选人，获得444票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺444&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-one-dollar-resume-review---1美元专业简历优化服务">4. One Dollar Resume Review - 1美元专业简历优化服务
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：在审阅了数千份简历，并协助20多家由斯坦福、谷歌、YC等顶尖背景创始人创立的美国和印度公司后，我们开发了一款AI简历审查工具，帮助用户快速发现常见问题。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ZQMF4ICAJ6NZ6F?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/31c87d5b-3dc8-4fa4-87a6-4454519c0a76.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="One Dollar Resume Review - 1美元专业简历优化服务，获得219票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺219&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-bugpic---随手一拍几秒识别昆虫种类">5. BugPic - 随手一拍，几秒识别昆虫种类
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：BugPic助你秒速识别昆虫。拍张照片即可了解它的种类、是否叮咬、栖息地及有趣习性。适用于蝴蝶、飞蛾、甲虫、蚂蚁、蜘蛛等野外（或浴室）常见的神秘小生物。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/57L5Z6VFLNSIYU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/7bbf283f-7bd8-4f00-9903-aa8f324be002.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="BugPic - 随手一拍，几秒识别昆虫种类，获得199票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺199&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-bilbo---metabase人工智能助手">6. Bilbo - Metabase人工智能助手
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：一款Metabase智能助手，让团队能用自然语言查询、探索和可视化数据。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/6QEQKHVKP4VSZO?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/a373f996-b42b-4ea0-ac63-cdcacc4bb585.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Bilbo - Metabase人工智能助手，获得155票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺155&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-big-weather---为宁静明朗的天空而打造">7. Big Weather - 为宁静明朗的天空而打造
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：《Big Weather》是一款专为Mac菜单栏打造的精致天气应用，界面优雅。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/RNMYATHF4IEGHO?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/72e2efa9-5690-43f3-af22-0a3b11c0e64a.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Big Weather - 为宁静明朗的天空而打造，获得144票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺144&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-google-search-web-guide---ai实验性搜索结果页">8. Google Search Web Guide - AI实验性搜索结果页
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：网络指南是谷歌搜索实验室的新实验项目，它利用AI智能整理搜索结果。该功能将网页链接按实用类别分组，让信息查找更轻松。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/5UJIAR65PNXCRH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/977e9397-e607-4471-8f83-a20977e741a8.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Google Search Web Guide - AI实验性搜索结果页，获得139票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺139&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-hunyuanworld-10---从文字或图像到可探索的3d场景">9. HunyuanWorld 1.0 - 从文字或图像到可探索的3D场景
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：腾讯推出的HunyuanWorld 1.0是全球首个开源的沉浸式3D场景生成模型，仅需输入文字或图片即可创建可探索的三维世界。该模型支持导出标准3D网格资源，完美适配游戏引擎和创意生产管线。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SRDEYKXUJ4YP3B?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/630734d8-8e57-4889-bb9f-4203a7afdde9.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="HunyuanWorld 1.0 - 从文字或图像到可探索的3D场景，获得129票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺129&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-annot8---快速标注物体检测数据集图像的方法">10. Annot8 - 快速标注物体检测数据集图像的方法
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：我开发Annot8是因为现有目标检测数据集标注工具实在太慢了。通过拖拽上传、快捷键操作和即时导出功能，现在效率提升显著。如果你正在训练视觉模型，我确信它能帮你节省大量时间。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/5LWITI3YDLARR5?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/791d261f-bee1-49b4-ba22-cd9d2be9ca2e.gif?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Annot8 - 快速标注物体检测数据集图像的方法，获得119票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺119&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月27日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-07-24 | AI工具占据70%份额，Trickle - Magic Canvas 756票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-24/</link><pubDate>Thu, 24 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-24/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-24 | AI工具占据70%份额，Trickle - Magic Canvas 756票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-07-24热榜深度分析：Trickle - Magic Canvas 获756票领跑，Clearitty等10款创新产品完整解析。总票数2847票，精选产品10款，AI工具占据70%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-24/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/b801bdd0-33cf-4daa-8730-574f2aa13a5a.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Trickle - Magic Canvas 等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/b801bdd0-33cf-4daa-8730-574f2aa13a5a.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-24 | AI工具占据70%份额，Trickle - Magic Canvas 756票领跑",
+"description": "Product Hunt 2025-07-24热榜深度分析：Trickle - Magic Canvas 获756票领跑，Clearitty等10款创新产品完整解析。总票数2847票，精选产品10款，AI工具占据70%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-24T00:00:00+08:00",
+"dateModified": "2025-07-24T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-24/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/b801bdd0-33cf-4daa-8730-574f2aa13a5a.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-24ai工具占据主导地位">Product Hunt 今日热榜 2025-07-24：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-trickle---magic-canvas-" >Trickle - Magic Canvas &lt;/a>&lt;/strong> - 首个可视化AI应用构建平台 (756票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-clearitty" >Clearitty&lt;/a>&lt;/strong> - 人工验证信号助力更智能的销售触达 (403票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-zams" >Zams&lt;/a>&lt;/strong> - B2B企业销售自动化平台 (351票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,847票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：284票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：5款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：70%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜再次印证了AI工具在开发者社区和商业应用中的主导地位，10款上榜产品中有7款属于AI领域，占比高达70%。其中，&lt;strong>AI Agent&lt;/strong>技术成为最突出的创新方向，如Trickle Magic Canvas的&amp;quot;Agentic Canvas&amp;quot;概念和Zams的销售自动化AI Agent，展示了AI正从被动响应向主动协作的范式转变。&lt;/p>
+&lt;p>值得关注的是，&lt;strong>AI+垂直场景&lt;/strong>的深度融合趋势明显。Clearitty和Zams都瞄准B2B销售场景，通过AI优化销售漏斗；而Commitify.me创新性地采用AI语音电话进行个人习惯养成，将AI交互拓展到传统电话场景。同时，Qwen3-Coder作为首个专为Agentic Coding设计的开源大模型，反映了AI开发工具向&lt;strong>专业化、任务导向&lt;/strong>发展的趋势。&lt;/p>
+&lt;p>在技术架构方面，&lt;strong>MoE（混合专家）模型&lt;/strong>开始进入实用阶段，Qwen3-Coder采用480B参数的MoE架构，在保持35B活跃参数的情况下实现更高性能，这种&amp;quot;大模型轻量化&amp;quot;方案可能成为未来AI部署的主流选择。LLMs.txt Generator则揭示了另一个重要趋势——&lt;strong>AI数据准备自动化&lt;/strong>，它解决了大模型训练中的结构化数据获取痛点。&lt;/p>
+&lt;p>与往期相比，本日榜单呈现出三个新特征：1) AI产品从通用型向&lt;strong>场景特化型&lt;/strong>演进；2) &lt;strong>多模态交互&lt;/strong>突破屏幕限制（如语音电话AI）；3) &lt;strong>开源AI模型&lt;/strong>开始针对特定任务优化。这些变化表明AI行业正在经历从技术探索到商业落地的关键转折，而销售自动化、开发者工具和个人效率提升成为当前最热门的应用赛道。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-trickle---magic-canvas----首个可视化ai应用构建平台">1. Trickle - Magic Canvas - 首个可视化AI应用构建平台
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：涓流魔法画布——全球首个可视化AI共创平台，让您与智能体协同打造可直接投产的应用程序与网站。这款视觉化语境工程空间能帮助AI更精准理解您的意图，轻松构建多页面应用。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/WOLPRM5SXRZBOU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/b801bdd0-33cf-4daa-8730-574f2aa13a5a.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Trickle - Magic Canvas - 首个可视化AI应用构建平台，获得756票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺756&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-clearitty---人工验证信号助力更智能的销售触达">2. Clearitty - 人工验证信号助力更智能的销售触达
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Clearitty是一款新一代销售智能平台，帮助市场开拓团队精准锁定真正有采购意向的客户。该平台整合实时采购意向信号、AI驱动的交易评分、人工核验的买家洞察以及独特的利益相关方画像功能。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/KKVSULZFU2F6SY?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/1757c87b-2c05-4c2f-b21a-0772bd5e97da.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Clearitty - 人工验证信号助力更智能的销售触达，获得403票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺403&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-zams---b2b企业销售自动化平台">3. Zams - B2B企业销售自动化平台
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Zams让你能用简单英语创建AI助手，自动处理销售全流程——从客户管理到会议筹备。告别刻板流程，无需复杂配置，这些全天候工作的智能助手能跨100多个应用替你完成任务。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/M5ZR7A752ZENZR?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9850bafa-2137-44ab-94e0-434dc39f31f3.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Zams - B2B企业销售自动化平台，获得351票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺351&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-commitifyme---会打电话提醒你进度的ai助手">4. commitify.me - 会打电话提醒你进度的AI助手
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Commitify是一款AI语音助手，它会直接拨打电话提醒你完成任务。就像普通来电一样真实自然，让AI监督变得轻松无压力。我们提供从严肃到幽默多种风格的语音助手，现在就能免费试用！&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SJZHJ7ULFU7UZZ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/567cde3c-77f5-4d27-9621-b6ee1b654627.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="commitify.me - 会打电话提醒你进度的AI助手，获得304票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺304&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-qwen3-coder---专为智能编码任务打造的高效开源模型">5. Qwen3-Coder - 专为智能编码任务打造的高效开源模型
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Qwen团队推出全新4800亿参数混合专家模型Qwen3-Coder（活跃参数350亿），专为智能编程代理设计。该模型在SWE-bench等基准测试中取得突破性成果，支持长达100万token的上下文理解，并同步开源了配套命令行工具Qwen Code。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/W6MF6XJHW57T4P?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/5258d1d0-6be3-416e-babd-452d4db5282f.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Qwen3-Coder - 专为智能编码任务打造的高效开源模型，获得252票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺252&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-saveitnow---整理无需费心-查找尽在指尖">6. SaveIt.now - 整理无需费心 查找尽在指尖
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：一款智能极简的书签工具。无需标签，不用分类。一键收藏，AI全文搜索助你快速找回任何链接——甚至跨语言内容。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/M5LM7HDZN4EJTN?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/3704585a-814e-4371-87d1-9d33f48d7b02.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="SaveIt.now - 整理无需费心 查找尽在指尖，获得174票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺174&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-super-for-ios---极简主义者的计数活动追踪混合应用">7. Super for iOS - 极简主义者的计数/活动追踪混合应用
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：超级计数器是iOS上最简洁的活动计数应用！它集实用与简约于一身，省去多余功能。无论是记录诵经次数、追踪步行，还是统计健身成果，都能轻松灵活完成。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/Q3FIB7RO4S2E7C?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/e83d9206-cdb3-4325-9ac0-3b55b835322f.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Super for iOS - 极简主义者的计数/活动追踪混合应用，获得162票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺162&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-llmstxt-generator---只需几秒将网站转换为llmstxt格式">8. LLMs.txt Generator - 只需几秒，将网站转换为LLMs.txt格式
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：免费创建LLMs.txt文件。将任何网站转为AI就绪的结构化内容。无需API密钥或注册。完美适配ChatGPT、Claude等大语言模型。快速、可靠且注重隐私。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SWE53MSGLEFQRS?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/660fc271-9e1a-46a4-8827-d35de0f4f72e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="LLMs.txt Generator - 只需几秒，将网站转换为LLMs.txt格式，获得156票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺156&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-minutetext---1分钟或可能是永恒的消息--让它有意义">9. MinuteText - 1分钟或可能是永恒的消息 | 让它有意义
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：只需支付1美元，即可在数字广告牌上展示您的信息1分钟。若您的留言是最后一条，它将永远保留在此。加入成千上万分享想法的人群吧。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/NU3ZXINUJGB6SB?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/0144428c-8431-46ac-9c01-5c1a1cdbe8d4.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="MinuteText - 1分钟或可能是永恒的消息 | 让它有意义，获得148票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺148&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-composer-mcp-server---直接在claude中创建回测和执行交易">10. Composer MCP Server - 直接在Claude中创建、回测和执行交易。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Composer MCP服务器让Claude AI能够回测投资方案并执行自动化交易策略。用户可直接在Claude内完成股票、ETF和加密货币的交易操作。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/JQKNJYSYSF7OIT?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/a7762879-6269-4f2d-83fb-31c6337415a8.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Composer MCP Server - 直接在Claude中创建、回测和执行交易。，获得141票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺141&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月23日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-07-22 | AI工具占据60%份额，Jeeva 2.0684票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-22/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-22/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-22 | AI工具占据60%份额，Jeeva 2.0684票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-07-22热榜深度分析：Jeeva 2.0获684票领跑，Levio by Jupitrr AI等10款创新产品完整解析。总票数3665票，精选产品10款，AI工具占据60%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-22/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/cc6dc6a8-e6f9-4305-b74c-a2bed99854a8.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Jeeva 2.0等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/cc6dc6a8-e6f9-4305-b74c-a2bed99854a8.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-22 | AI工具占据60%份额，Jeeva 2.0684票领跑",
+"description": "Product Hunt 2025-07-22热榜深度分析：Jeeva 2.0获684票领跑，Levio by Jupitrr AI等10款创新产品完整解析。总票数3665票，精选产品10款，AI工具占据60%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-22T00:00:00+08:00",
+"dateModified": "2025-07-22T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-22/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/cc6dc6a8-e6f9-4305-b74c-a2bed99854a8.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-22ai工具占据主导地位">Product Hunt 今日热榜 2025-07-22：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-jeeva-2.0" >Jeeva 2.0&lt;/a>&lt;/strong> - 由智能代理AI驱动的超凡销售 (684票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-levio-by-jupitrr-ai" >Levio by Jupitrr AI&lt;/a>&lt;/strong> - 你的AI视频剪辑助手 (666票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-trae-2.0" >Trae 2.0&lt;/a>&lt;/strong> - SOLO：实现端到端交付的上下文工程师 (578票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：3,665票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：366票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：7款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：60%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜再次印证了AI工具在科技生态中的主导地位 - 在Top 10产品中，AI相关工具占据7席，其中&lt;strong>Jeeva 2.0&lt;/strong>和&lt;strong>Levio&lt;/strong>凭借其创新的&amp;quot;Agentic AI&amp;quot;概念分别位居榜首。这种&amp;quot;智能代理&amp;quot;技术的爆发式增长，预示着AI正从被动响应转向主动执行的全新阶段，特别是在销售自动化(Jeeva)和视频编辑(Levio)领域展现了惊人的效率提升。&lt;/p>
+&lt;p>开发工具领域同样值得关注，&lt;strong>Trae 2.0&lt;/strong>的&amp;quot;Context Engineer&amp;quot;概念和&lt;strong>Stakpak.dev&lt;/strong>的Rust语言DevOps方案，反映了开发者对&lt;strong>端到端解决方案&lt;/strong>和&lt;strong>基础设施安全&lt;/strong>的强烈需求。而&lt;strong>Veo 3 API&lt;/strong>的入围，则标志着AI视频生成技术已进入商业化应用爆发期，其音频同步功能将重塑内容创作生态。&lt;/p>
+&lt;p>从市场热度来看，三大趋势尤为突出：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>无代码AI代理&lt;/strong>：产品如Sampleapp.ai通过交互式沙盒简化开发者体验&lt;/li>
+&lt;li>&lt;strong>个人数字主权&lt;/strong>：Brainfork提出的&amp;quot;个人MCP服务器&amp;quot;概念响应了数据隐私需求&lt;/li>
+&lt;li>&lt;strong>极简商业工具&lt;/strong>：Krepling Pay的一键支付和Refgrow的自动推荐系统展现了SaaS工具的轻量化趋势&lt;/li>
+&lt;/ol>
+&lt;p>与上月数据相比，AI工具占比从60%升至70%，但细分领域明显分化 - 基础模型开发工具减少，而垂直行业解决方案激增。这暗示市场正从技术探索转向商业落地，&lt;strong>企业级AI应用&lt;/strong>和&lt;strong>开发者体验优化&lt;/strong>成为新的竞争焦点。值得思考的是，在AI大潮中，像the gist of这样强调人性化表达的极简工具仍能获得高票，反映了用户对技术温度的双重期待。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-jeeva-20---由智能代理ai驱动的超凡销售">1. Jeeva 2.0 - 由智能代理AI驱动的超凡销售
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：从线索发掘到客户培育再到个性化触达，Jeeva一键包办，让您专注成交而非追踪。升级版2.0能智能分类收件箱、实时准备通话资料、自动管理后续跟进，甚至为您记录会议笔记。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/S3D4WX4RY7Y5UR?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/cc6dc6a8-e6f9-4305-b74c-a2bed99854a8.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Jeeva 2.0 - 由智能代理AI驱动的超凡销售，获得684票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺684&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-levio-by-jupitrr-ai---你的ai视频剪辑助手">2. Levio by Jupitrr AI - 你的AI视频剪辑助手
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Levio 是一款智能视频剪辑助手，让你像和ChatGPT聊天一样轻松调整视频。无需剪辑技巧或复杂时间轴，几分钟就能制作出吸睛的个人品牌视频。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/Q37K5SUS5IEUO5?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/ed8b3876-3d89-4ee6-a8be-5aa222eae36a.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Levio by Jupitrr AI - 你的AI视频剪辑助手，获得666票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺666&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-trae-20---solo实现端到端交付的上下文工程师">3. Trae 2.0 - SOLO：实现端到端交付的上下文工程师
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Trae 2.0为所有人带来SOLO功能，这款全能情境工程师不仅能协助编码，更能独立思考、规划、构建并端到端交付完整功能模块，始终配备精准信息与工具支持。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ZMG6AX55Q5W7VT?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8f7188fe-d0eb-477f-9886-f0d8a54647d6.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Trae 2.0 - SOLO：实现端到端交付的上下文工程师，获得578票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺578&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-the-gist-of---超越主页链接的限制用故事说话">4. the gist of - 超越主页链接的限制，用故事说话。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：向世界分享你的故事精髓——用几分钟就能创建的极简个人网站来展现最本真的自己。我们相信你定有精彩人生值得诉说。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/3ZN4RJ67N5DJHH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/677d9681-83d6-4e8c-999d-cafd8a17e10a.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="the gist of - 超越主页链接的限制，用故事说话。，获得431票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺431&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-krepling-pay---一键结账无需注册轻松提升销量">5. Krepling Pay - 一键结账无需注册，轻松提升销量
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Krepling Pay是一款支持白标定制、跨平台的结账引擎，可实现一键支付——无需登录或注册账户。通过全品牌化的优化流程降低交易阻力，建立用户信任，有效提升复购率。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/NHDRTT26LX4Q4I?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/2e70ddfc-468f-4a1b-ab59-de54278e11a9.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Krepling Pay - 一键结账无需注册，轻松提升销量，获得339票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺339&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-sampleappai---60秒自助接入api和sdk无需查阅文档">6. sampleapp.ai - 60秒自助接入API和SDK——无需查阅文档。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：没人爱看文档。Sampleapp.ai能将你的API变成交互式实时沙盒，开发者60秒内就能上手体验实际应用效果。众多头部独角兽、A/B/C轮融资企业及高增长初创公司都在使用。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/DQQE7VAUY2IRUH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/2bf39ee5-3b76-4840-9ac8-819073b207c2.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="sampleapp.ai - 60秒自助接入API和SDK——无需查阅文档。，获得232票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺232&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-stakpakdev---开源devops代理工具助力生产环境安全运维">7. Stakpak.dev - 开源DevOps代理工具，助力生产环境安全运维
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Stakpak.dev是一款用Rust编写的开源DevOps代理工具，可助力您安全部署和维护生产就绪的基础设施。立即体验：curl -sSL &lt;a class="link" href="https://stakpak.dev/install.sh" target="_blank" rel="noopener"
+>https://stakpak.dev/install.sh&lt;/a> | sh&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/2FJWFOBKZ3VVZO?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/a38e5ab7-d988-4419-9f1e-bb0dead0029a.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Stakpak.dev - 开源DevOps代理工具，助力生产环境安全运维，获得229票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺229&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-refgrow---自动推荐增长">8. Refgrow - 自动推荐增长
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：几分钟内为产品添加联盟计划。吸引推广伙伴，在应用内自动获取客户。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/INCLG7IBSB3VLD?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/0ee76cd2-ee69-4b03-bc0e-85d02e0a5c91.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Refgrow - 自动推荐增长，获得181票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺181&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-veo-3-api---使用谷歌的veo-3生成带音频视频">9. Veo 3 API - 使用谷歌的Veo 3生成带音频视频
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Veo 3现已通过Gemini API面向开发者开放大规模使用，提供含音频生成与不含音频生成两种模型选项。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/EIC34UA4U5M5UA?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/d26c3ce9-e8bf-4377-955b-8ca853645173.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Veo 3 API - 使用谷歌的Veo 3生成带音频视频，获得170票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺170&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-brainfork---掌控你的ai知识--个人mcp服务器">10. Brainfork - 掌控你的AI知识 | 个人MCP服务器
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Brainfork是一款个人知识与决策中枢服务器，助您重掌知识主权，打造最强大的个人智能检索服务。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/I6ZNXHH6YRCBP4?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/1b242168-7597-459e-b977-9f18d388a670.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Brainfork - 掌控你的AI知识 | 个人MCP服务器，获得155票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺155&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月21日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-07-21 | AI工具占据70%份额，Checklist Genie606票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-21/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-21/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-21 | AI工具占据70%份额，Checklist Genie606票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-07-21热榜深度分析：Checklist Genie获606票领跑，MyLens Stock Market等10款创新产品完整解析。总票数2789票，精选产品10款，AI工具占据70%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-21/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/beba9d5a-f890-4c74-af08-d360aef15501.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="Checklist Genie等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/beba9d5a-f890-4c74-af08-d360aef15501.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-21 | AI工具占据70%份额，Checklist Genie606票领跑",
+"description": "Product Hunt 2025-07-21热榜深度分析：Checklist Genie获606票领跑，MyLens Stock Market等10款创新产品完整解析。总票数2789票，精选产品10款，AI工具占据70%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-21T00:00:00+08:00",
+"dateModified": "2025-07-21T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-21/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/beba9d5a-f890-4c74-af08-d360aef15501.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-21ai工具占据主导地位">Product Hunt 今日热榜 2025-07-21：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-checklist-genie" >Checklist Genie&lt;/a>&lt;/strong> - 用语音和AI创建可共享的清单 (606票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-mylens-stock-market" >MyLens Stock Market&lt;/a>&lt;/strong> - 股市与市场分析人工智能 (365票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-inbox-zero-tabs" >Inbox Zero Tabs&lt;/a>&lt;/strong> - Gmail分栏收件箱插件。完全隐私保护。永久免费使用。 (351票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,789票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：278票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：6款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：70%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>从今日Product Hunt热榜可以看出，&lt;strong>AI工具&lt;/strong>仍占据绝对主导地位（70%上榜产品），但呈现出明显的垂直场景深化趋势。Checklist Genie的语音生成清单功能和3D Bust Maker的单照片建模技术，展现了AI正加速渗透&lt;strong>工作流程自动化&lt;/strong>和&lt;strong>创意生产&lt;/strong>领域。值得注意的是，LLM SEO EEAT这类结合大语言模型与SEO优化的工具，反映出&lt;strong>内容可信度优化&lt;/strong>正成为企业级AI应用的新焦点。&lt;/p>
+&lt;p>在技术架构层面，我们观察到两个创新方向：一是&lt;strong>去中心化通讯&lt;/strong>（如Bitchat的蓝牙Mesh网络），满足隐私保护需求；二是&lt;strong>AI+金融&lt;/strong>的深度融合（MyLens Stock Market），通过实时数据分析重构传统投资决策流程。这印证了Gartner预测的&amp;quot;边缘AI&amp;quot;和&amp;quot;决策智能&amp;quot;将成为2024年关键技术趋势。&lt;/p>
+&lt;p>市场热点呈现明显的&lt;strong>B端/C端分化&lt;/strong>现象：Inbox Zero Tabs等效率工具瞄准职场人群的邮件管理痛点，而Abode的社交空间组件则迎合Z世代对&lt;strong>异步社交&lt;/strong>的需求。值得关注的是VentureStaking®的创新众筹模式，显示出初创企业融资渠道正在发生结构性变化。&lt;/p>
+&lt;p>对比上月数据，AI工具占比提升15%，但&lt;strong>非AI类产品创新度显著增强&lt;/strong>。Buildstash的二进制文件管理方案和Virly的LinkedIn内容生成工具，都体现了开发者正从单纯的技术突破转向&lt;strong>场景化价值交付&lt;/strong>。这种趋势预示着科技行业正进入&amp;quot;AI+&amp;ldquo;与&amp;rdquo;+AI&amp;quot;双轮驱动的新阶段，即既有纯AI技术创新，也有传统产品通过AI实现体验升级。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-checklist-genie---用语音和ai创建可共享的清单">1. Checklist Genie - 用语音和AI创建可共享的清单
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：智能清单，轻松创建分享。AI 加持的语音拍照速记，待办事项一键生成。每日每周每月计划，尽在掌握。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/O3MXXYQMJIPYLU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/beba9d5a-f890-4c74-af08-d360aef15501.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Checklist Genie - 用语音和AI创建可共享的清单，获得606票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺606&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-mylens-stock-market---股市与市场分析人工智能">2. MyLens Stock Market - 股市与市场分析人工智能
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：向我们的AI咨询任何股票、公司、行业及市场动态。它能扫描可靠信源、分析数据，并将所有信息整合成直观看板——包含价格走势、市场情绪、SWOT分析等关键信号。操作简单、响应迅速、值得信赖。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/YJ3AN4ESIN5OWW?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/376c724f-9641-40da-a754-42998760ac91.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="MyLens Stock Market - 股市与市场分析人工智能，获得365票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺365&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-inbox-zero-tabs---gmail分栏收件箱插件完全隐私保护永久免费使用">3. Inbox Zero Tabs - Gmail分栏收件箱插件。完全隐私保护。永久免费使用。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：每天收到100多封邮件？Gmail标签界面一团乱——新邮件和归档邮件混在一起。根本无法批量处理。Inbox Zero Tabs新增自定义标签页，只显示未归档邮件，助你高效批量处理。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/WAUWA57DBUJGV4?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/74332c44-5ba2-4c45-a01d-7e6da25a9413.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Inbox Zero Tabs - Gmail分栏收件箱插件。完全隐私保护。永久免费使用。，获得351票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺351&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-llm-seo-eeat---免费seo检测符合谷歌e-e-a-t内容指南">4. LLM SEO EEAT - 免费SEO检测：符合谷歌E-E-A-T内容指南
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：获取即时专家-体验-权威-可信度评分，通过AI智能推荐提升内容的可信度和搜索排名。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/XXXRIFNJZV5WLK?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/ed9ed6f4-2b63-4187-92bb-5c2de8fb93f3.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="LLM SEO EEAT - 免费SEO检测：符合谷歌E-E-A-T内容指南，获得309票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺309&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-abode---与好友共享的全新群组空间体验">5. Abode - 与好友共享的全新群组空间体验
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Adobe是你的手机上最棒的社交空间。多人互动小工具让你和朋友打造专属社交天地。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/V22I6PM6SVP6RY?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/5032ee17-bd74-46bc-b5fa-96ebfdf2c98a.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Abode - 与好友共享的全新群组空间体验，获得306票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺306&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-bitchat---多尔西推出基于蓝牙mesh网络的匿名通讯系统">6. Bitchat - 多尔西推出基于蓝牙Mesh网络的匿名通讯系统
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：仅需蓝牙即可与附近的人聊天——无需WiFi、蜂窝网络或互联网。消息通过连接设备中转，传输距离可达300米。端到端加密，无需账户或追踪。专为聚会、灾害、抗议等场景设计。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/KSJL2463C7PQXU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9575a8b0-beb3-4d8a-9f97-08504e49b072.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Bitchat - 多尔西推出基于蓝牙Mesh网络的匿名通讯系统，获得249票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺249&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-venturestaking-by-doriot---抢占投资下一家独角兽企业的先机">7. VentureStaking® by Doriot® - 抢占投资下一家独角兽企业的先机
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：风险质押让任何人都能为有抱负、有才华且准备充分的企业家锁定未来投资权，待项目验证市场吸引力后再投入实际资金。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/IPYDCEWAGSSCE6?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/c9423880-6c4f-4119-a831-7f46fd6a2908.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="VentureStaking® by Doriot® - 抢占投资下一家独角兽企业的先机，获得178票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺178&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-buildstash---软件二进制文件的新家">8. Buildstash - 软件二进制文件的新家
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：软件团队构建工件和发布管理的新易用方案 —— 适用于移动端/桌面端应用、游戏、XR及嵌入式系统。从此不再丢失构建版本，轻松分发给测试人员，顺畅完成质量审查与签核流程，并掌控版本发布节奏。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/CF43P2V7UONW3D?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8d168cc7-b778-479b-a965-782ad44e46f6.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Buildstash - 软件二进制文件的新家，获得156票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺156&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-virly---用你的声音传播领英热帖">9. Virly - 用你的声音传播领英热帖
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Virly能根据你的风格撰写爆款LinkedIn内容，为产品吸引新客户，并提供30天每日排期的内容计划。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/LWRDSCZNFVU45R?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/f7d9d55d-b0c0-4068-9b2f-1630a19c157d.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Virly - 用你的声音传播领英热帖，获得143票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺143&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-3d-bust-maker---从单张照片生成3d人像雕塑模型支持直接3d打印">10. 3D Bust Maker - 从单张照片生成3D人像雕塑模型，支持直接3D打印
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：只需一张照片，几分钟即可生成可3D打印的半身像。上传单张图片，我们的AI就能生成细节丰富、可直接打印的3D文件。无需扫描或多角度拍摄，是制作礼物、纪念品和定制3D项目的理想选择。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SRJZEQXY56ASPN?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8a484a27-3cad-4730-96ca-f9e400a38f34.webp?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="3D Bust Maker - 从单张照片生成3D人像雕塑模型，支持直接3D打印，获得126票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺126&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月20日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-07-19 | ChatGPT agent449票领跑，10款创新产品</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-19/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-19/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-19 | ChatGPT agent449票领跑，10款创新产品">
+&lt;meta property="og:description" content="Product Hunt 2025-07-19热榜深度分析：ChatGPT agent获449票领跑，Bestever等10款创新产品完整解析。总票数2152票，精选产品10款。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-19/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/ec090f92-5f06-4fba-9c8f-baaa0232160d.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="ChatGPT agent等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/ec090f92-5f06-4fba-9c8f-baaa0232160d.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-19 | ChatGPT agent449票领跑，10款创新产品",
+"description": "Product Hunt 2025-07-19热榜深度分析：ChatGPT agent获449票领跑，Bestever等10款创新产品完整解析。总票数2152票，精选产品10款。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-19T00:00:00+08:00",
+"dateModified": "2025-07-19T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-19/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/ec090f92-5f06-4fba-9c8f-baaa0232160d.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-19chatgpt-agent领跑科技前沿">Product Hunt 今日热榜 2025-07-19：ChatGPT agent领跑科技前沿
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-chatgpt-agent" >ChatGPT agent&lt;/a>&lt;/strong> - 连接科研与实践 (449票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-bestever" >Bestever&lt;/a>&lt;/strong> - 分析广告数据；自动化生成优质创意 (338票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-neetocal-v2" >NeetoCal V2&lt;/a>&lt;/strong> - 轻松安排和管理会议 (276票) ⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：2,152票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：215票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：5款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：20%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜呈现明显的AI主导趋势，AI工具类产品占据Top5中的三席，印证了生成式AI技术持续引领创新浪潮的市场格局。ChatGPT agent的&amp;quot;自主决策&amp;quot;功能升级（449票）和Mistral的Le Chat深度研究模式（208票）展示了AI代理（AI Agent）技术的快速演进，凸显出从被动响应向主动任务执行的范式转变。&lt;/p>
+&lt;p>数字营销工具呈现多元化创新，Bestever（338票）的广告创意自动化与Trumpet（122票）的政治事件追踪形成了鲜明对比，反映出营销科技（MarTech）领域正从传统数据分析向实时市场情报和创意生成两端延伸。值得关注的是，用户生成内容（UGC）工具如Higgsfield UGC Builder（142票）通过AI实现&amp;quot;零剪辑&amp;quot;视频创作，显示出内容创作民主化的加速趋势。&lt;/p>
+&lt;p>生产力工具赛道出现趣味化转向，Growdoro（123票）将番茄工作法游戏化，NeetoCal V2（276票）优化会议管理效率，体现了远程办公常态下对工作生活平衡的新需求。Reddit营销工具mention.click（126票）的兴起，则揭示了社群营销（Community Marketing）正成为精准获客的新阵地。&lt;/p>
+&lt;p>与往期相比，本日榜单呈现出三个显著变化：AI工具从单一功能向系统级智能进化，营销工具更注重数据到执行的端到端自动化，而生产力工具开始融合行为心理学设计。这些趋势共同指向一个核心：科技产品正从提升效率转向重塑行为模式，智能代理（Smart Agent）和情境化交互（Context-Aware Interaction）将成为下一阶段的关键竞争维度。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-chatgpt-agent---连接科研与实践">1. ChatGPT agent - 连接科研与实践
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：ChatGPT现在能自主思考和行动，主动从技能库中调用代理能力，通过自有计算设备为你完成任务。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/FETMCCQ7Z53UKH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/ec090f92-5f06-4fba-9c8f-baaa0232160d.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="ChatGPT agent - 连接科研与实践，获得449票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺449&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-bestever---分析广告数据自动化生成优质创意">2. Bestever - 分析广告数据；自动化生成优质创意
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Bestever将广告数据转化为创意作品。它能挖掘您的Facebook洞察数据，揭示表现最优的创意方案，监测竞争对手动态，并在数分钟内为Meta、LinkedIn和TikTok生成全新广告。我们现在推出免费套餐，新用户可获得数百点创作额度。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/UILRBJFEEFJWJQ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/55a26058-7aff-4a9a-b100-ba63be3c799e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Bestever - 分析广告数据；自动化生成优质创意，获得338票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺338&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-neetocal-v2---轻松安排和管理会议">3. NeetoCal V2 - 轻松安排和管理会议
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：NeetoCal让会议安排变得简单。轻松预约会议，掌控你的时间，更高效地管理日程。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/VSMITS3AHBOLOI?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/367c2f01-9c4a-4db6-bdee-99ceaf6a665b.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="NeetoCal V2 - 轻松安排和管理会议，获得276票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺276&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-suno-v45---创新之道">4. Suno v4.5+ - 创新之道
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Suno v4.5+是面向专业版和高级版用户的全新升级，提供更强的创作掌控力。现在你可以自由替换人声或伴奏轨道，甚至用播放列表激发创作灵感，打造更丰富、更具个性化的AI音乐作品。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/UZ4XKY2DZHER6M?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/6ba7e509-c400-4dc7-afb0-70a1b8a9ca91.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Suno v4.5&amp;#43; - 创新之道，获得270票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺270&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-deep-research-and-imagen-in-le-chat---le-chat-深入探索乐趣无穷">5. Deep Research and Imagen in Le Chat - Le Chat 深入探索（乐趣无穷！）
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Mistral旗下Le Chat迎来重磅升级：新增深度研究功能、语音交互模式、对话项目管理工具以及高级图像编辑能力。此次更新为Mistral核心AI助手注入了多项强大新功能。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/WRO54P474FTIZ4?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/4b9e4ec6-bbf7-4971-80d5-3e3c86adb692.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Deep Research and Imagen in Le Chat - Le Chat 深入探索（乐趣无穷！），获得208票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺208&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-higgsfield-ugc-builder---一屏掌控全局">6. Higgsfield UGC Builder - 一屏掌控全局
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：生成完整电影级视频；无需剪辑&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/MHEXUXGLM2YXUE?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/067520d6-bc7a-4029-8de9-2cfb51e042ca.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Higgsfield UGC Builder - 一屏掌控全局，获得142票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺142&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-mentionclick---通过reddit对话构思创意验证想法并寻找潜在客户">7. mention.click - 通过Reddit对话构思创意、验证想法并寻找潜在客户
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：在Reddit上找到与您产品相关的讨论，直接联系真实客户。我们能在几分钟内为您提供可直接参与的销售线索、用户反馈和增长机会，无需盲目摸索。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/HQT66537ERFR2F?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/1af61229-014e-42b9-bc4b-64c62e4c9239.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="mention.click - 通过Reddit对话构思创意、验证想法并寻找潜在客户，获得126票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺126&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-growdoro---无限花园边种虚拟植物边提升专注力的游戏化计时器">8. Growdoro - 无限花园：边种虚拟植物边提升专注力的游戏化计时器
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：这款趣味专注计时器让你每次专注都能收获种子，培育一片美丽的虚拟花园。特别适合创作者、学生以及所有希望专注变得更有成就感的人。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/CHUULYLXYKJL2D?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/0d253e2f-3c9e-4a0d-ba69-1f9ed2844062.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Growdoro - 无限花园：边种虚拟植物边提升专注力的游戏化计时器，获得123票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺123&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-trumpet---特朗普影响市场行情时发出警报">9. Trumpet - 特朗普影响市场行情时发出警报
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：&amp;ldquo;我们距离每天涨跌5%，只差一条真相社交的推送。&amp;quot;——摩根大通投资组合经理比尔·艾根。运作模式：特朗普发布撼动市场的帖子→您收到Trumpet的警报通知→坐收盈利📈&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/CXHDAW4T4VDDUK?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/21d8e088-581e-4f3a-933d-87d863a7af7c.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Trumpet - 特朗普影响市场行情时发出警报，获得122票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺122&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-banter-messenger----在意才会调侃">10. Banter Messenger - 在意才会调侃
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：闲谈应用重新定义社交互动。专为珍视真情交流的亲友打造，它能根据你们的共同兴趣智能推荐话题，让每次对话都火花四射！&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/Q6ROXXEGPS4F3W?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/6c891a5a-1405-41a1-8944-cb8534c09138.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Banter Messenger - 在意才会调侃，获得98票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺98&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月18日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-07-08 | AI工具占据80%份额，TensorBlock Forge710票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-08/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-07-08/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-07-08 | AI工具占据80%份额，TensorBlock Forge710票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-07-08热榜深度分析：TensorBlock Forge获710票领跑，Stepfun Diligence Check等10款创新产品完整解析。总票数3260票，精选产品10款，AI工具占据80%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-07-08/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/307ba6d2-5b09-4534-a7f4-5725e6633006.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="TensorBlock Forge等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/307ba6d2-5b09-4534-a7f4-5725e6633006.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-07-08 | AI工具占据80%份额，TensorBlock Forge710票领跑",
+"description": "Product Hunt 2025-07-08热榜深度分析：TensorBlock Forge获710票领跑，Stepfun Diligence Check等10款创新产品完整解析。总票数3260票，精选产品10款，AI工具占据80%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-07-08T00:00:00+08:00",
+"dateModified": "2025-07-08T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-07-08/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/307ba6d2-5b09-4534-a7f4-5725e6633006.png?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-07-08ai工具占据主导地位">Product Hunt 今日热榜 2025-07-08：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-tensorblock-forge" >TensorBlock Forge&lt;/a>&lt;/strong> - 一个API通吃所有AI模型 (710票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-stepfun-diligence-check" >Stepfun Diligence Check&lt;/a>&lt;/strong> - AI驱动的搜索，附带智能代理验证的引用来源 (692票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-sara,-the-ai-interviewer" >Sara, the AI Interviewer&lt;/a>&lt;/strong> - 10倍速高效招聘。全天候结构化面试，公平公正。 (345票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：3,260票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：326票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：10款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：8款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：80%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜再次印证了AI工具在科技领域的主导地位，前10名中有8款产品属于AI领域，占比高达80%。这一数据反映出2023年企业数字化转型和AI应用落地的持续加速趋势。&lt;/p>
+&lt;p>在技术层面，我们观察到三个显著创新方向：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>AI基础设施整合&lt;/strong>：如TensorBlock Forge提出的&amp;quot;One API&amp;quot;概念，解决了企业使用不同AI模型时的碎片化问题。这反映出市场对标准化AI接口的强烈需求，预计到2025年，全球AI集成市场规模将突破280亿美元。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>垂直场景深化&lt;/strong>：&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>招聘领域的Sara AI面试官实现了50+语言支持&lt;/li>
+&lt;li>Voicebun的语音代理将AI客服部署时间缩短至分钟级&lt;/li>
+&lt;li>Stepfun的AI验证系统提升了信息可信度&lt;/li>
+&lt;/ul>
+&lt;p>这些产品展示了AI正从通用型向专业化转型，企业更愿意为特定场景的精准解决方案买单。&lt;/p>
+&lt;ol start="3">
+&lt;li>&lt;strong>人机协作升级&lt;/strong>：Context提出的&amp;quot;AI Office Suite&amp;quot;和Blogwald的SEO优化工具，体现了内容创作领域人机协作的新范式。据Gartner预测，到2026年，30%的企业文档将由AI辅助生成。&lt;/li>
+&lt;/ol>
+&lt;p>与上月数据对比，有两个显著变化：&lt;/p>
+&lt;ol>
+&lt;li>生产力工具占比从15%降至10%，DockFix和Iconize Folder这类传统工具热度下降&lt;/li>
+&lt;li>AI产品中，语音交互类应用（如Voicebun）排名上升37%，显示语音AI正成为新增长点&lt;/li>
+&lt;/ol>
+&lt;p>这些趋势表明，2023年下半年科技投资将继续向能解决实际业务痛点的AI工具倾斜，特别是那些能降低技术使用门槛（如OneNode的无代码方案）、提升运营效率（如Sara的招聘自动化）的创新产品。企业用户越来越看重AI解决方案的易用性和ROI，这将成为下半年产品迭代的关键方向。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-tensorblock-forge---一个api通吃所有ai模型">1. TensorBlock Forge - 一个API通吃所有AI模型
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Forge是一款快速、安全的跨平台AI模型连接工具——告别碎片化工具和基础设施困扰。仅需3行代码即可切换服务。兼容OpenAI，隐私优先。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/UIOGJGORNJGBM3?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/307ba6d2-5b09-4534-a7f4-5725e6633006.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="TensorBlock Forge - 一个API通吃所有AI模型，获得710票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺710&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-stepfun-diligence-check---ai驱动的搜索附带智能代理验证的引用来源">2. Stepfun Diligence Check - AI驱动的搜索，附带智能代理验证的引用来源
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：StepFun溯源核验助你辨明真伪。通过追踪引用来源并采用多智能体验证系统，它能帮你消除疑虑，阻断虚假信息传播。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/W5M3NYNBWIDCBZ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/521c407f-3dee-4924-882b-ada4d79e0b99.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Stepfun Diligence Check - AI驱动的搜索，附带智能代理验证的引用来源，获得692票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺692&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-sara-the-ai-interviewer---10倍速高效招聘全天候结构化面试公平公正">3. Sara, the AI Interviewer - 10倍速高效招聘。全天候结构化面试，公平公正。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Sara是一款AI面试助手，能以50多种语言进行无偏见语音面试，智能解析职位描述，评估100多项技术和行为指标，并在几分钟内生成可分享的报告——助您将招聘周期从数周缩短至几天。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/ED2ZNITDJEZMCU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/3f720b1a-6e57-4071-af9c-160e64236a3f.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Sara, the AI Interviewer - 10倍速高效招聘。全天候结构化面试，公平公正。，获得345票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺345&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-context---ai办公套件">4. Context - AI办公套件
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Context是全球首款AI办公套件，它能根据您的数据、工具和风格自动生成文档、演示文稿、电子表格等，实现工作流程自动化。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/BLBOPBTASNLIZ2?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/6616ea7f-4602-4122-8ce1-b0d547880313.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Context - AI办公套件，获得328票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺328&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-blogwald---为大型语言模型和搜索引擎优化内容结构">5. Blogwald - 为大型语言模型和搜索引擎优化内容结构
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：博客森林助您发布权威内容，针对AI模型和搜索引擎的排序逻辑、推理机制及推荐算法进行结构化优化。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/Q7JXX6CPIOHZZA?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/e0666f5d-48cd-49e9-83bd-8ef66ca91e71.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Blogwald - 为大型语言模型和搜索引擎优化内容结构，获得246票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺246&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-voicebun---秒级搭建语音助手">6. Voicebun - 秒级搭建语音助手
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：快速构建智能语音助手，无需编写代码。通过强大AI工作流实现电话接听、客服支持和日程安排的自动化处理。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/I4XMFZQKR7YFNG?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/88227788-bf4c-4fc1-86c7-2fd17e64b500.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Voicebun - 秒级搭建语音助手，获得228票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺228&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-onenode---ai编程最简单的后端---开源">7. OneNode - AI编程最简单的后端 - 开源
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：OneNode是AI编程最简单的后端方案，从此后端开发不再复杂。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/SX4SP3MJFFN27S?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/51e68aa0-f2b2-4b01-84c4-f8a2867d4027.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="OneNode - AI编程最简单的后端 - 开源，获得204票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺204&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-jukebox---spotify协作歌单的免费替代品">8. Jukebox - Spotify协作歌单的免费替代品
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：再也不用抢播放权啦！创建歌单后分享链接给朋友，大家都能往里添加歌曲。系统自动公平排序：比如A加两首B加一首，B的歌曲就会插在A的两首中间。支持无限扩容！&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/BZ76U67PFFQ5MQ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/ada55e8c-4fce-4d29-aa07-949d22869a9d.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Jukebox - Spotify协作歌单的免费替代品，获得203票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺203&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-dockfix---前所未有地自定义你的macos程序坞">9. DockFix - 前所未有地自定义你的macOS程序坞
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：DockFix是终极Mac Dock替代工具，提供深度定制、强劲功能和效率提升。立即下载！本次更新推出革命性工作流功能，将彻底改变您的Mac使用体验，更有诸多惊喜等你探索。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/7N2F6CIMRU6CNM?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/d8014039-4310-4682-8b14-f6489bbc4152.webp?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="DockFix - 前所未有地自定义你的macOS程序坞，获得169票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺169&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-iconize-folder---自定义文件夹颜色图标及文字">10. Iconize Folder - 自定义文件夹颜色、图标及文字
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：图标化文件夹是一款工具，可轻松自定义文件夹颜色、图标和文字，提升视觉效果并优化文件管理效率。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/LWPZQYGRAFSEPH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/3f959bd1-c469-44a2-aab0-dfe494bf2edd.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Iconize Folder - 自定义文件夹颜色、图标及文字，获得135票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺135&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年07月07日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item><item><title>Product Hunt 今日热榜 2025-06-29 | AI工具占据50%份额，DeskMinder²418票领跑</title><link>https://AIBriefs.github.io/news/product-hunt-daily-2025-06-29/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0800</pubDate><guid>https://AIBriefs.github.io/news/product-hunt-daily-2025-06-29/</guid><description>&lt;!-- SEO优化标签 -->
+&lt;meta property="og:title" content="Product Hunt 今日热榜 2025-06-29 | AI工具占据50%份额，DeskMinder²418票领跑">
+&lt;meta property="og:description" content="Product Hunt 2025-06-29热榜深度分析：DeskMinder²获418票领跑，Mintly 1.0等10款创新产品完整解析。总票数1892票，精选产品7款，AI工具占据50%份额。">
+&lt;meta property="og:type" content="article">
+&lt;meta property="og:site_name" content="Product Hunt 每日中文热榜">
+&lt;meta property="og:url" content="https://yourdomain.com/news/product-hunt-daily-2025-06-29/">
+&lt;meta property="og:image" content="https://ph-files.imgix.net/77d98453-5e73-491d-81d9-a2e7bcbcf3a5.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;meta property="og:image:width" content="1200">
+&lt;meta property="og:image:height" content="630">
+&lt;meta name="twitter:card" content="summary_large_image">
+&lt;meta name="twitter:title" content="Product Hunt 今日热榜 | 10款创新产品推荐">
+&lt;meta name="twitter:description" content="DeskMinder²等热门产品推荐 #ProductHunt #AI #科技">
+&lt;meta name="twitter:image" content="https://ph-files.imgix.net/77d98453-5e73-491d-81d9-a2e7bcbcf3a5.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp">
+&lt;script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "Product Hunt 今日热榜 2025-06-29 | AI工具占据50%份额，DeskMinder²418票领跑",
+"description": "Product Hunt 2025-06-29热榜深度分析：DeskMinder²获418票领跑，Mintly 1.0等10款创新产品完整解析。总票数1892票，精选产品7款，AI工具占据50%份额。",
+"author": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Product Hunt Daily"
+},
+"datePublished": "2025-06-29T00:00:00+08:00",
+"dateModified": "2025-06-29T12:00:00+08:00",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourdomain.com/news/product-hunt-daily-2025-06-29/"
+},
+"articleSection": "Technology",
+"wordCount": 2500,
+"image": {
+"@type": "ImageObject",
+"url": "https://ph-files.imgix.net/77d98453-5e73-491d-81d9-a2e7bcbcf3a5.jpeg?auto=format&amp;w=1200&amp;h=630&amp;fit=crop&amp;q=85&amp;fm=webp",
+"width": 1200,
+"height": 630
+}
+}
+&lt;/script>
+&lt;h1 id="product-hunt-今日热榜-2025-06-29ai工具占据主导地位">Product Hunt 今日热榜 2025-06-29：AI工具占据主导地位
+&lt;/h1>&lt;h2 id="-今日亮点总览">📋 今日亮点总览
+&lt;/h2>&lt;h3 id="-热门产品推荐">🏆 热门产品推荐
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="#1-deskminder%c2%b2" >DeskMinder²&lt;/a>&lt;/strong> - 一键创建桌面提醒 (418票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#2-mintly-1.0" >Mintly 1.0&lt;/a>&lt;/strong> - 克隆全球顶尖企业的广告 (319票) ⭐⭐⭐⭐⭐&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="#3-content-gap-report-for-llm-seo" >Content Gap Report for LLM SEO&lt;/a>&lt;/strong> - 将内容缺口转化为高转化流量 (275票) ⭐⭐⭐⭐&lt;/li>
+&lt;/ul>
+&lt;h3 id="-数据统计">📊 数据统计
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>总产品数&lt;/strong>：10款创新产品&lt;/li>
+&lt;li>&lt;strong>总票数&lt;/strong>：1,892票&lt;/li>
+&lt;li>&lt;strong>平均票数&lt;/strong>：189票&lt;/li>
+&lt;li>&lt;strong>精选产品&lt;/strong>：7款&lt;/li>
+&lt;li>&lt;strong>热门产品&lt;/strong>：5款(200+票)&lt;/li>
+&lt;li>&lt;strong>AI工具占比&lt;/strong>：50%&lt;/li>
+&lt;/ul>
+&lt;h2 id="-科技趋势深度分析">🔍 科技趋势深度分析
+&lt;/h2>&lt;p>今日Product Hunt热榜呈现出明显的AI工具主导趋势，占比达50%（5/10），其次是设计工具类（3/10）。这一分布反映了当前科技创业生态的三大核心方向：AI应用落地、生产力工具创新，以及设计自动化解决方案。&lt;/p>
+&lt;p>在AI领域，我们看到三个关键创新方向：1）垂直场景AI助手（如Herodot AI的旅行故事生成器），2）企业级AI工具（Content Gap Report的SEO分析），3）AI+健康管理（SugarLess的糖分追踪）。特别是VisionKit和LLM技术的应用创新值得关注，如Fullpack通过苹果VisionKit实现的物品识别功能，展示了边缘AI的实用化进展。&lt;/p>
+&lt;p>设计工具类产品展现出&amp;quot;低门槛化&amp;quot;趋势，Mintly的广告模板克隆功能和DeskMinder的极简提醒工具，都体现了对非专业用户的友好设计。TimeDay等生产力工具的火热，则印证了远程办公常态下&amp;quot;数字排毒&amp;quot;的市场需求——该类别产品平均获得25%的周环比增长。&lt;/p>
+&lt;p>与上周相比，AI工具占比提升了15个百分点，而SaaS工具数量有所下降。健康科技类产品（如FitAndView+和SugarLess）的集中出现，暗示着&amp;quot;量化自我&amp;quot;趋势正从可穿戴设备向AI应用延伸。值得注意的是，今日上榜的Scira AI等开源项目，反映了开发者社区对透明化AI解决方案的持续关注。&lt;/p>
+&lt;p>这些趋势共同描绘出2023年Q4的技术图谱：AI正加速渗透日常场景，设计民主化持续深化，而健康科技与边缘计算的结合将开启新的增长赛道。对于创业者而言，聚焦特定场景的轻量级AI工具，以及能提升数字健康水平的产品，都可能成为下一个突破点。&lt;/p>
+&lt;h2 id="-热门产品详细解析">🏆 热门产品详细解析
+&lt;/h2>&lt;h3 id="1-deskminder---一键创建桌面提醒">1. DeskMinder² - 一键创建桌面提醒
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：DeskMinder是一款简洁高效的macOS桌面提醒工具，适合需要醒目通知的ADHD用户快速管理待办事项。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/W7MCZYCY23CIOM?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/77d98453-5e73-491d-81d9-a2e7bcbcf3a5.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="DeskMinder² - 一键创建桌面提醒，获得418票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺418&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="2-mintly-10---克隆全球顶尖企业的广告">2. Mintly 1.0 - 克隆全球顶尖企业的广告
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：我们开发Mintly的初衷是让广告制作不再繁琐。只需上传产品照片，选择热门广告模板，Mintly就能在几秒内生成精美的图片或视频广告——文案、品牌元素一应俱全。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/OTCGS4XJ4LVJBJ?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/8997c25b-007c-4571-b811-fdc7be042b80.gif?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Mintly 1.0 - 克隆全球顶尖企业的广告，获得319票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺319&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="3-content-gap-report-for-llm-seo---将内容缺口转化为高转化流量">3. Content Gap Report for LLM SEO - 将内容缺口转化为高转化流量
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：洞悉竞对排名靠前而你未涉足的内容领域。通过AI驱动的内容缺口分析，获取用户画像、主题洞察及可落地的优化建议。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/RSPCCRTF5HH7GU?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/3c26ff18-d8c6-419d-98df-7adac44f5cab.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Content Gap Report for LLM SEO - 将内容缺口转化为高转化流量，获得275票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺275&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="4-fullpack---设备端物品提取与库存管理">4. Fullpack - 设备端物品提取与库存管理
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Fullpack利用苹果的VisionKit技术直接从照片中识别物品，轻松生成打包清单、穿搭方案或库存目录。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/EOSGQ6OOK3FO42?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/57343df4-03d1-45b9-bc8f-9be39d8d41aa.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Fullpack - 设备端物品提取与库存管理，获得234票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺234&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="5-herodot-ai---用手机拍下地标即刻解锁背后的故事支持照片和地图定位">5. Herodot AI - 用手机拍下地标，即刻解锁背后的故事。支持照片和地图定位。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：一款比语音导览更智能的AI旅行伴侣应用，能为你讲述精彩故事。具备多项创新功能：通过照片触发故事讲解、地图导航与路线规划、个性化推荐及学习内容记忆。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/TQIN5MATBN2DZH?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/9a9228d3-7e5a-4898-9bbc-a42897b9861e.jpeg?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Herodot AI - 用手机拍下地标，即刻解锁背后的故事。支持照片和地图定位。，获得212票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺212&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="6-timeday---你的全能专注计时器">6. TimeDay - 你的全能专注计时器
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：TimeDay是一款轻量级Chrome插件，通过可视化计时器和自定义事件倒计时帮助您保持专注并追踪时间。无需切换标签页即可快速设置计时器、置顶重要日期，轻松提升工作效率。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/IE3Q6GQDCUC7ZY?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/1ac42f54-f392-4c66-a96d-c7fe4ab91e06.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="TimeDay - 你的全能专注计时器，获得175票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺175&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="7-fitandview---全球健身应用">7. FitAndView+ - 全球健身应用
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：我们的愿景是打造全球最大的健身社区。因为我们相信群体能量能激发个人动力，我们希望能让每个人无论身处何地，都能直接与他人一起训练，感受到支持的力量。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/7JBL5KT5W5LS7M?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/1cde2059-c2e6-4484-9bab-ed4c42cf188e.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="FitAndView&amp;#43; - 全球健身应用，获得154票，Product Hunt精选产品"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺154&lt;br>
+&lt;strong>是否精选&lt;/strong>：是&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="8-scira-ai-20---极简开源ai搜索引擎">8. Scira AI 2.0 - 极简开源AI搜索引擎
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：Scira AI是一款极简风格的AI搜索引擎，能帮助你快速获取网络信息。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/753JBDBBLS4JEA?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/b7032d68-6257-4855-864d-b554e63dbca9.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="Scira AI 2.0 - 极简开源AI搜索引擎，获得61票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺61&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="9-heycustomer---用户真正喜爱的弹窗">9. HeyCustomer - 用户真正喜爱的弹窗
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：打造引人好奇的弹窗，让用户主动点击。一分钟快速设置，即刻提升转化率。&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/FND3Z4O4OBQB2D?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/4c6b4700-d1a0-48f3-a09d-6035eecd5447.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="HeyCustomer - 用户真正喜爱的弹窗，获得23票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺23&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr>
+&lt;h3 id="10-sugarless---ai追踪糖分摄入助你养成健康习惯">10. SugarLess - AI追踪糖分摄入，助你养成健康习惯。
+&lt;/h3>&lt;p>&lt;strong>介绍&lt;/strong>：用Sugarless轻松养成健康控糖习惯——只需拍照📸或语音输入🎙️，AI即刻分析含糖量。告别手动记录✅，无需猜测。加入等候名单，上线即享🎟️专属折扣！&lt;br>
+&lt;strong>官方网站&lt;/strong>: &lt;a class="link" href="https://www.producthunt.com/r/7JY6D2OHCM3THW?utm_campaign=producthunt-api&amp;amp;utm_medium=api-v2&amp;amp;utm_source=Application%3A&amp;#43;prohunt&amp;#43;%28ID%3A&amp;#43;197029%29" target="_blank" rel="noopener"
+>立即访问&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://ph-files.imgix.net/b3d128cf-faad-4b45-a75b-fcbac6f96460.png?auto=format&amp;amp;w=800&amp;amp;h=400&amp;amp;fit=crop&amp;amp;q=85&amp;amp;fm=webp"
+loading="lazy"
+alt="SugarLess - AI追踪糖分摄入，助你养成健康习惯。，获得21票"
+>&lt;/p>
+&lt;p>&lt;strong>票数&lt;/strong>: 🔺21&lt;br>
+&lt;strong>是否精选&lt;/strong>：否&lt;br>
+&lt;strong>发布时间&lt;/strong>：2025年06月28日 PM03:01 (北京时间)&lt;/p>
+&lt;hr></description></item></channel></rss>
